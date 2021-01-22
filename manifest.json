@@ -1749,17 +1749,6 @@
         ]
     },
     {
-        "slug": "aladdin",
-        "symbol": "ADN",
-        "name": "Aladdin",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "aladiex",
         "symbol": "ALA",
         "name": "AladiEx",
@@ -10648,17 +10637,6 @@
         ]
     },
     {
-        "slug": "cryptonex",
-        "symbol": "CNX",
-        "name": "Cryptonex",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "cryptonite",
         "symbol": "XCN",
         "name": "Cryptonite",
@@ -12983,17 +12961,6 @@
         "slug": "dimecoin",
         "symbol": "DIME",
         "name": "Dimecoin",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
-        "slug": "dimension-chain",
-        "symbol": "EON",
-        "name": "Dimension Chain",
         "formats": [
             "16",
             "32",
@@ -17908,17 +17875,6 @@
         ]
     },
     {
-        "slug": "general-attention-currency",
-        "symbol": "XAC",
-        "name": "General Attention Currency",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "genesis-vision",
         "symbol": "GVT",
         "name": "Genesis Vision",
@@ -19547,17 +19503,6 @@
         ]
     },
     {
-        "slug": "helper-search-token",
-        "symbol": "HSN",
-        "name": "Helper Search Token",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "helpico",
         "symbol": "HELP",
         "name": "Helpico",
@@ -21164,6 +21109,17 @@
         ]
     },
     {
+        "slug": "insured-finance",
+        "symbol": "INFI",
+        "name": "Insured Finance",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
         "slug": "insurepal",
         "symbol": "IPL",
         "name": "VouchForMe",
@@ -21923,17 +21879,6 @@
         ]
     },
     {
-        "slug": "joule",
-        "symbol": "JUL",
-        "name": "Joule",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "joys-digital",
         "symbol": "JOYS",
         "name": "Joys Digital",
@@ -22682,6 +22627,17 @@
         ]
     },
     {
+        "slug": "konjungate",
+        "symbol": "KONJ",
+        "name": "KONJUNGATE",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
         "slug": "kora-network-token",
         "symbol": "KNT",
         "name": "Kora Network Token",
@@ -23202,17 +23158,6 @@
         "slug": "levelg",
         "symbol": "LEVELG",
         "name": "LEVELG",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
-        "slug": "leverj",
-        "symbol": "LEV",
-        "name": "Leverj",
         "formats": [
             "16",
             "32",
@@ -24277,17 +24222,6 @@
         ]
     },
     {
-        "slug": "lynx",
-        "symbol": "LYNX",
-        "name": "Lynx",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
         "slug": "lyra",
         "symbol": "LYR",
         "name": "Lyra",
@@ -24467,6 +24401,17 @@
         "slug": "malwarechain",
         "symbol": "MALW",
         "name": "MalwareChain",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
+        "slug": "mandala-exchange-token",
+        "symbol": "MDX",
+        "name": "Mandala Exchange Token",
         "formats": [
             "16",
             "32",
@@ -24819,17 +24764,6 @@
         "slug": "maxcoin",
         "symbol": "MAX",
         "name": "Maxcoin",
-        "formats": [
-            "16",
-            "32",
-            "64",
-            "128"
-        ]
-    },
-    {
-        "slug": "maximine-coin",
-        "symbol": "MXM",
-        "name": "Maximine Coin",
         "formats": [
             "16",
             "32",
@@ -30723,9 +30657,9 @@
         ]
     },
     {
-        "slug": "pointpay",
-        "symbol": "PXP",
-        "name": "PointPay",
+        "slug": "pokeball",
+        "symbol": "POKE",
+        "name": "Pokeball",
         "formats": [
             "16",
             "32",
@@ -30737,6 +30671,17 @@
         "slug": "polis",
         "symbol": "POLIS",
         "name": "Polis",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
+        "slug": "polkacover",
+        "symbol": "CVR",
+        "name": "Polkacover",
         "formats": [
             "16",
             "32",
@@ -31771,6 +31716,17 @@
         "slug": "qchi-chain",
         "symbol": "QHC",
         "name": "QChi Chain",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
+        "slug": "qfinance",
+        "symbol": "QFI",
+        "name": "QFinance",
         "formats": [
             "16",
             "32",
@@ -32838,6 +32794,17 @@
         "slug": "rift-token",
         "symbol": "RIFT",
         "name": "RIFT Token",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
+        "slug": "rigel-finance",
+        "symbol": "RIGEL",
+        "name": "Rigel Finance",
         "formats": [
             "16",
             "32",
@@ -39306,6 +39273,17 @@
         "slug": "typerium",
         "symbol": "TYPE",
         "name": "Typerium",
+        "formats": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ]
+    },
+    {
+        "slug": "typhoon-cash",
+        "symbol": "PHOON",
+        "name": "Typhoon Cash",
         "formats": [
             "16",
             "32",
