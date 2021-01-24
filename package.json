@@ -1,5 +1,5 @@
 {
-  "name": "crypto-icons",
+  "name": "crypto-icons-plus",
   "version": "0.1.0",
   "description": "A comprehensive collection of more than 16000 crypto-currency icons (4000+ coins) with various sizes.",
   "repository": "Isaac-the-Man/crypto-icons",
@@ -9,7 +9,7 @@
     "src/64",
     "src/128",
     "manifest.json",
-    "convert.json"
+    "map.json"
   ],
   "scripts": {
     "test": "jest",
