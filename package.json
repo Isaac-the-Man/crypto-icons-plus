@@ -2,12 +2,33 @@
   "name": "crypto-icons",
   "version": "0.1.0",
   "description": "A comprehensive collection of more than 16000 crypto-currency icons (4000+ coins) with various sizes.",
-  "main": "index.js",
+  "repository": "Isaac-the-Man/crypto-icons",
+  "files": [
+    "src/16",
+    "src/32",
+    "src/64",
+    "src/128",
+    "manifest.json",
+    "convert.json"
+  ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "count": "node ./scripts/count"
   },
+  "keywords": [
+    "crypto",
+    "icons",
+    "cryptocurrency",
+    "cryptocurrencies",
+    "symbols",
+    "png",
+    "coin",
+    "coins",
+    "altcoin",
+    "token"
+  ],
   "author": "Isaac-the-Man",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^26.6.3"
   }
