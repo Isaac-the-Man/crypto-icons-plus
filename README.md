@@ -1,5 +1,6 @@
 # crypto-icons-plus
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a5ffb2e-97b8-4e7c-adcf-7e50b986b192/deploy-status)](https://app.netlify.com/sites/crypto-icons-plus/deploys)
+
 A comprehensive collection of more than 16000 crypto-currency icons (4000+ coins) in various sizes. A crypto 
 
 All crypto icons comes in 4 sizes: `16x16`, `32x32`, `64x64`, and `128x128`, in the format of `PNG`.
