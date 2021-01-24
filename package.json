@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A comprehensive collection of more than 16000 crypto-currency icons (4000+ coins) with various sizes.",
   "repository": "Isaac-the-Man/crypto-icons",
+  "homepage": "https://crypto-icons-plus.netlify.app/",
   "files": [
     "src/16",
     "src/32",
@@ -23,6 +24,7 @@
     "symbols",
     "png",
     "coin",
+    "coins",
     "coins",
     "altcoin",
     "token"
