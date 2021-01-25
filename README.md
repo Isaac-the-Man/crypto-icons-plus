@@ -1,5 +1,6 @@
 # crypto-icons-plus
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a5ffb2e-97b8-4e7c-adcf-7e50b986b192/deploy-status)](https://app.netlify.com/sites/crypto-icons-plus/deploys)
+![Node Test](https://github.com/Isaac-the-Man/crypto-icons-plus/workflows/Node.js%20CI/badge.svg)
 
 A comprehensive collection of more than 16000 crypto-currency icons (4000+ coins) in various sizes. A crypto 
 
