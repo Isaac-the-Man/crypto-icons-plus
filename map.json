@@ -113,11 +113,11 @@
     "CEL": [
         "celsius"
     ],
-    "SOL": [
-        "solana"
-    ],
     "EGLD": [
         "elrond-egld"
+    ],
+    "SOL": [
+        "solana"
     ],
     "FTT": [
         "ftx-token"
@@ -147,15 +147,15 @@
     "KSM": [
         "kusama"
     ],
-    "ZIL": [
-        "zilliqa"
-    ],
     "GRT": [
         "the-graph",
         "golden-ratio-token"
     ],
     "ALGO": [
         "algorand"
+    ],
+    "ZIL": [
+        "zilliqa"
     ],
     "DCR": [
         "decred"
@@ -170,12 +170,12 @@
     "VGX": [
         "voyager-token"
     ],
+    "UMA": [
+        "uma"
+    ],
     "RUNE": [
         "thorchain",
         "thorchain-erc20"
-    ],
-    "UMA": [
-        "uma"
     ],
     "LRC": [
         "loopring"
@@ -189,11 +189,11 @@
     "RENBTC": [
         "renbtc"
     ],
-    "HEDG": [
-        "hedgetrade"
-    ],
     "CELO": [
         "celo"
+    ],
+    "HEDG": [
+        "hedgetrade"
     ],
     "REN": [
         "ren"
@@ -213,17 +213,17 @@
     "ONT": [
         "ontology"
     ],
-    "NEXO": [
-        "nexo"
-    ],
-    "BAT": [
-        "basic-attention-token"
-    ],
     "ZRX": [
         "0x"
     ],
     "1INCH": [
         "1inch"
+    ],
+    "NEXO": [
+        "nexo"
+    ],
+    "BAT": [
+        "basic-attention-token"
     ],
     "HUSD": [
         "husd"
@@ -231,11 +231,11 @@
     "ICX": [
         "icon"
     ],
-    "TUSD": [
-        "trueusd"
-    ],
     "DGB": [
         "digibyte"
+    ],
+    "TUSD": [
+        "trueusd"
     ],
     "ZEN": [
         "horizen"
@@ -304,11 +304,11 @@
     "EWT": [
         "energy-web-token"
     ],
-    "AMPL": [
-        "ampleforth"
-    ],
     "FLOW": [
         "flow"
+    ],
+    "AMPL": [
+        "ampleforth"
     ],
     "BAL": [
         "balancer"
@@ -325,11 +325,11 @@
     "LSK": [
         "lisk"
     ],
-    "BTG": [
-        "bitcoin-gold"
-    ],
     "RVN": [
         "ravencoin"
+    ],
+    "BTG": [
+        "bitcoin-gold"
     ],
     "FUN": [
         "funfair"
@@ -374,20 +374,20 @@
     "ZB": [
         "zb-token"
     ],
-    "WICC": [
-        "waykichain"
-    ],
     "BCD": [
         "bitcoin-diamond"
+    ],
+    "WICC": [
+        "waykichain"
     ],
     "GLM": [
         "golem-network-tokens"
     ],
-    "NMR": [
-        "numeraire"
-    ],
     "UBT": [
         "unibright"
+    ],
+    "NMR": [
+        "numeraire"
     ],
     "RIF": [
         "rsk-infrastructure-framework"
@@ -404,15 +404,15 @@
     "KAVA": [
         "kava"
     ],
+    "BTS": [
+        "bitshares",
+        "bat-true-share"
+    ],
     "IOTX": [
         "iotex"
     ],
     "STORJ": [
         "storj"
-    ],
-    "BTS": [
-        "bitshares",
-        "bat-true-share"
     ],
     "OXT": [
         "orchid"
@@ -427,32 +427,29 @@
     "TOMO": [
         "tomochain"
     ],
-    "CVC": [
-        "civic"
-    ],
     "SRM": [
         "serum"
+    ],
+    "CVC": [
+        "civic"
     ],
     "RLC": [
         "rlc"
     ],
-    "BTM": [
-        "bytom"
-    ],
     "NPXS": [
         "pundi-x"
     ],
-    "CVT": [
-        "cybervein"
+    "BTM": [
+        "bytom"
     ],
     "KCS": [
         "kucoin-token"
     ],
+    "CVT": [
+        "cybervein"
+    ],
     "MRPH": [
         "morpheus-network"
-    ],
-    "RDD": [
-        "redd"
     ],
     "KMD": [
         "komodo"
@@ -460,27 +457,27 @@
     "ROSE": [
         "oasis-network"
     ],
+    "RDD": [
+        "redd"
+    ],
     "ONE": [
         "harmony",
         "bigone-token"
     ],
-    "VLX": [
-        "velas"
-    ],
     "SCRT": [
         "secret"
+    ],
+    "VLX": [
+        "velas"
     ],
     "AVA": [
         "travala"
     ],
-    "NRG": [
-        "energi"
-    ],
     "ANKR": [
         "ankr"
     ],
-    "ARDR": [
-        "ardor"
+    "NRG": [
+        "energi"
     ],
     "FET": [
         "fetch"
@@ -488,11 +485,14 @@
     "PPT": [
         "populous"
     ],
-    "DNT": [
-        "district0x"
+    "ARDR": [
+        "ardor"
     ],
     "ELF": [
         "aelf"
+    ],
+    "DNT": [
+        "district0x"
     ],
     "STEEM": [
         "steem"
@@ -521,11 +521,11 @@
     "DX": [
         "dxchain-token"
     ],
-    "PNK": [
-        "kleros"
-    ],
     "XVS": [
         "venus"
+    ],
+    "PNK": [
+        "kleros"
     ],
     "KP3R": [
         "keep3rv1"
@@ -539,11 +539,11 @@
     "AGI": [
         "singularitynet"
     ],
-    "KIN": [
-        "kin"
-    ],
     "IRIS": [
         "irisnet"
+    ],
+    "KIN": [
+        "kin"
     ],
     "WAXP": [
         "wax"
@@ -582,11 +582,11 @@
     "ARK": [
         "ark"
     ],
-    "DIA": [
-        "dia"
-    ],
     "TRB": [
         "tellor"
+    ],
+    "DIA": [
+        "dia"
     ],
     "BZRX": [
         "bzx-protocol"
@@ -606,11 +606,11 @@
     "ADX": [
         "adx-net"
     ],
+    "UQC": [
+        "uquid-coin"
+    ],
     "CELR": [
         "celer-network"
-    ],
-    "XHV": [
-        "haven-protocol"
     ],
     "CCXX": [
         "counos-x"
@@ -640,11 +640,11 @@
         "creditcoin",
         "culture-ticket-chain"
     ],
-    "BOTX": [
-        "botxcoin"
-    ],
     "GNY": [
         "gny"
+    ],
+    "BOTX": [
+        "botxcoin"
     ],
     "ZLW": [
         "zelwin"
@@ -683,11 +683,11 @@
     "SUSD": [
         "susd"
     ],
-    "EUM": [
-        "elitium"
-    ],
     "SOLO": [
         "sologenic"
+    ],
+    "EUM": [
+        "elitium"
     ],
     "vBTC": [
         "venus-btc"
@@ -695,28 +695,28 @@
     "PERP": [
         "perpetual-protocol"
     ],
+    "FRAX": [
+        "frax"
+    ],
+    "ESD": [
+        "empty-set-dollar"
+    ],
     "MIR": [
         "mirror-protocol",
         "mir-coin"
-    ],
-    "FRAX": [
-        "frax"
     ],
     "MTC": [
         "metacoin",
         "doc-com"
     ],
-    "ESD": [
-        "empty-set-dollar"
-    ],
     "KEEP": [
         "keep-network"
     ],
-    "BDX": [
-        "beldex"
-    ],
     "HEGIC": [
         "hegic"
+    ],
+    "BDX": [
+        "beldex"
     ],
     "PRQ": [
         "parsiq"
@@ -734,11 +734,11 @@
     "USDN": [
         "neutrino-usd"
     ],
-    "MWC": [
-        "mimblewimblecoin"
-    ],
     "BLCT": [
         "bloomzed-token"
+    ],
+    "MWC": [
+        "mimblewimblecoin"
     ],
     "ICH": [
         "idea-chain-coin",
@@ -756,6 +756,9 @@
     "TTT": [
         "the-transfer-token"
     ],
+    "BNANA": [
+        "chimpion"
+    ],
     "EDG": [
         "edgeware",
         "edgeless"
@@ -765,9 +768,6 @@
     ],
     "NU": [
         "nucypher"
-    ],
-    "BNANA": [
-        "chimpion"
     ],
     "EAURIC": [
         "eauric"
@@ -784,11 +784,11 @@
     "DMCH": [
         "darma-cash"
     ],
-    "MASS": [
-        "massnet"
-    ],
     "RKN": [
         "rakon"
+    ],
+    "MASS": [
+        "massnet"
     ],
     "ZKS": [
         "zkswap"
@@ -799,18 +799,18 @@
     "FARM": [
         "harvest-finance"
     ],
-    "LON": [
-        "tokenlon-network-token"
+    "XIN": [
+        "mixin",
+        "infinity-economics"
     ],
     "TWT": [
         "trust-wallet-token"
     ],
+    "LON": [
+        "tokenlon-network-token"
+    ],
     "AMP": [
         "amp"
-    ],
-    "XIN": [
-        "mixin",
-        "infinity-economics"
     ],
     "XDC": [
         "xinfin-network"
@@ -837,9 +837,6 @@
     "AXEL": [
         "axel"
     ],
-    "BADGER": [
-        "badger-dao"
-    ],
     "LPT": [
         "livepeer"
     ],
@@ -848,6 +845,9 @@
     ],
     "SFI": [
         "saffron-finance"
+    ],
+    "BADGER": [
+        "badger-dao"
     ],
     "POLS": [
         "polkastarter"
@@ -915,18 +915,21 @@
     "CAS": [
         "cashaa"
     ],
+    "MIN": [
+        "mindol"
+    ],
     "HMR": [
         "homeros"
-    ],
-    "QQQ": [
-        "poseidon-network"
-    ],
-    "UQC": [
-        "uquid-coin"
     ],
     "SAPP": [
         "sapphire",
         "sappchain"
+    ],
+    "QQQ": [
+        "poseidon-network"
+    ],
+    "XHV": [
+        "haven-protocol"
     ],
     "POWR": [
         "power-ledger"
@@ -940,42 +943,39 @@
     "QKC": [
         "quarkchain"
     ],
+    "VTHO": [
+        "vethor-token"
+    ],
     "SUN": [
         "sun"
     ],
-    "WOZX": [
-        "efforce"
-    ],
-    "BAO": [
-        "bao-finance"
-    ],
-    "VTHO": [
-        "vethor-token"
+    "TEL": [
+        "telcoin"
     ],
     "DATA": [
         "streamr"
     ],
+    "BAO": [
+        "bao-finance"
+    ],
+    "WOZX": [
+        "efforce"
+    ],
     "KAI": [
         "kardiachain"
-    ],
-    "MIN": [
-        "mindol"
-    ],
-    "BHAO": [
-        "bithao"
     ],
     "MPH": [
         "88mph",
         "morpher"
+    ],
+    "BHAO": [
+        "bithao"
     ],
     "BTMX": [
         "bitmax-token"
     ],
     "EURS": [
         "stasis-euro"
-    ],
-    "TEL": [
-        "telcoin"
     ],
     "HNS": [
         "handshake"
@@ -995,23 +995,23 @@
     "CRD": [
         "cryptaldash"
     ],
+    "UOS": [
+        "ultra"
+    ],
     "BIFI": [
         "beefy-finance",
         "bifi",
         "bitcoin-file"
     ],
-    "UOS": [
-        "ultra"
-    ],
     "IQ": [
         "everipedia",
         "iqcash"
     ],
-    "ELA": [
-        "elastos"
-    ],
     "SALT": [
         "salt"
+    ],
+    "ELA": [
+        "elastos"
     ],
     "GT": [
         "gatetoken"
@@ -1025,11 +1025,11 @@
     "HARD": [
         "hard-protocol"
     ],
-    "ZNN": [
-        "zenon"
-    ],
     "OGN": [
         "origin-protocol"
+    ],
+    "ZNN": [
+        "zenon"
     ],
     "NFTX": [
         "nftx"
@@ -1043,28 +1043,25 @@
     "COTI": [
         "coti"
     ],
+    "aEth": [
+        "ankreth"
+    ],
     "PCX": [
         "chainx"
     ],
-    "aEth": [
-        "ankreth"
+    "REQ": [
+        "request"
+    ],
+    "MX": [
+        "mx-token"
     ],
     "ORC": [
         "orbit-chain",
         "oracle-system",
         "originate-coin"
     ],
-    "MX": [
-        "mx-token"
-    ],
-    "REQ": [
-        "request"
-    ],
     "SOLVE": [
         "solve"
-    ],
-    "AXS": [
-        "axie-infinity"
     ],
     "STETH": [
         "steth",
@@ -1078,6 +1075,9 @@
     ],
     "FRM": [
         "ferrum-network"
+    ],
+    "AXS": [
+        "axie-infinity"
     ],
     "AION": [
         "aion"
@@ -1094,26 +1094,26 @@
     "KRT": [
         "terra-krw"
     ],
-    "SHR": [
-        "sharetoken"
-    ],
     "BOT": [
         "bounce-token"
+    ],
+    "DENT": [
+        "dent"
+    ],
+    "SHR": [
+        "sharetoken"
     ],
     "LGCY": [
         "lgcy-network"
     ],
-    "MXC": [
-        "mxc"
-    ],
     "BCN": [
         "bytecoin-bcn"
     ],
+    "MXC": [
+        "mxc"
+    ],
     "BNK": [
         "bankera"
-    ],
-    "DENT": [
-        "dent"
     ],
     "ORBS": [
         "orbs"
@@ -1132,11 +1132,11 @@
     "FLM": [
         "flamingo"
     ],
-    "CUSD": [
-        "celo-dollar"
-    ],
     "VSYS": [
         "v-systems"
+    ],
+    "CUSD": [
+        "celo-dollar"
     ],
     "DGD": [
         "digixdao"
@@ -1147,8 +1147,8 @@
     "CTK": [
         "certik"
     ],
-    "OCTO": [
-        "octofi"
+    "FST": [
+        "1irstcoin"
     ],
     "CTXC": [
         "cortex"
@@ -1156,8 +1156,14 @@
     "WHITE": [
         "whiteheart"
     ],
+    "OCTO": [
+        "octofi"
+    ],
     "YOUC": [
         "youcash"
+    ],
+    "PRE": [
+        "presearch"
     ],
     "DDIM": [
         "duckdaodime"
@@ -1168,6 +1174,10 @@
     "NULS": [
         "nuls"
     ],
+    "ULT": [
+        "ultiledger",
+        "shardus"
+    ],
     "SCC": [
         "stem-cell-coin",
         "stakecubecoin",
@@ -1175,21 +1185,14 @@
         "stockchain",
         "scc-digforit"
     ],
-    "FST": [
-        "1irstcoin"
+    "BEAM": [
+        "beam"
     ],
     "vUSDT": [
         "venus-usdt"
     ],
     "GTO": [
         "gifto"
-    ],
-    "PRE": [
-        "presearch"
-    ],
-    "ULT": [
-        "ultiledger",
-        "shardus"
     ],
     "TMTG": [
         "the-midas-touch-gold"
@@ -1206,20 +1209,11 @@
     "USDK": [
         "usdk"
     ],
-    "BEAM": [
-        "beam"
-    ],
     "TT": [
         "thunder-token"
     ],
-    "L2": [
-        "leverj-gluon"
-    ],
     "AE": [
         "aeternity"
-    ],
-    "GRS": [
-        "groestlcoin"
     ],
     "VIDT": [
         "vidt-datalink"
@@ -1227,11 +1221,14 @@
     "SERO": [
         "super-zero-protocol"
     ],
-    "MTL": [
-        "metal"
+    "GRS": [
+        "groestlcoin"
     ],
     "SWTH": [
         "switcheo"
+    ],
+    "MTL": [
+        "metal"
     ],
     "USDX": [
         "usdx-kava",
@@ -1239,38 +1236,41 @@
         "dollars",
         "usdx-lighthouse"
     ],
-    "NXS": [
-        "nexus"
-    ],
     "MVL": [
         "mvl"
     ],
-    "LOKI": [
-        "oxen"
+    "NXS": [
+        "nexus"
     ],
-    "BRZE": [
-        "breezecoin"
-    ],
-    "BOA": [
-        "bosagora"
+    "L2": [
+        "leverj-gluon"
     ],
     "HEZ": [
         "hermez-network"
     ],
-    "RCN": [
-        "ripio-credit-network"
+    "LOKI": [
+        "oxen"
     ],
     "WTC": [
         "waltonchain"
     ],
+    "RCN": [
+        "ripio-credit-network"
+    ],
     "WXT": [
         "wirex-token"
+    ],
+    "BOA": [
+        "bosagora"
     ],
     "STMX": [
         "stormx"
     ],
     "AUDIO": [
         "audius"
+    ],
+    "BRZE": [
+        "breezecoin"
     ],
     "YFL": [
         "yflink"
@@ -1290,35 +1290,38 @@
     "BORA": [
         "bora"
     ],
-    "ARRR": [
-        "pirate-chain"
-    ],
     "GRO": [
         "growthdefi"
-    ],
-    "BOR": [
-        "boringdao"
     ],
     "WRX": [
         "wazirx"
     ],
-    "GBYTE": [
-        "obyte"
-    ],
-    "IDEX": [
-        "idex"
-    ],
     "BASIC": [
         "basic"
     ],
-    "LAMB": [
-        "lambda"
+    "BOR": [
+        "boringdao"
+    ],
+    "GBYTE": [
+        "obyte"
     ],
     "DUCATO": [
         "ducato-protocol-token"
     ],
+    "LAMB": [
+        "lambda"
+    ],
+    "IDEX": [
+        "idex"
+    ],
     "CRPT": [
         "crpt"
+    ],
+    "UNFI": [
+        "unifi-protocol-dao"
+    ],
+    "ARRR": [
+        "pirate-chain"
     ],
     "ERG": [
         "ergo"
@@ -1332,30 +1335,27 @@
     "CCA": [
         "counos-coin"
     ],
-    "QSP": [
-        "quantstamp"
-    ],
     "XLT": [
         "nexalt"
+    ],
+    "QSP": [
+        "quantstamp"
     ],
     "CND": [
         "cindicator",
         "cannadrix"
     ],
-    "UNFI": [
-        "unifi-protocol-dao"
-    ],
-    "GALA": [
-        "gala"
-    ],
     "DUSK": [
         "dusk-network"
+    ],
+    "NEX": [
+        "nash-exchange"
     ],
     "KLV": [
         "klever"
     ],
-    "NEX": [
-        "nash-exchange"
+    "GALA": [
+        "gala"
     ],
     "HPT": [
         "huobi-pool-token"
@@ -1382,18 +1382,18 @@
         "metaverse-dualchain-network-architecture",
         "encrypgen"
     ],
-    "DAD": [
-        "dad"
-    ],
     "STPT": [
         "standard-tokenization-protocol"
     ],
-    "QASH": [
-        "qash"
+    "DAD": [
+        "dad"
     ],
     "AST": [
         "airswap",
         "antiscamtoken"
+    ],
+    "QASH": [
+        "qash"
     ],
     "PEAK": [
         "peakdefi"
@@ -1404,11 +1404,14 @@
     "RBTC": [
         "rsk-smart-bitcoin"
     ],
+    "DHT": [
+        "dhedge-dao"
+    ],
     "DF": [
         "dforce"
     ],
-    "DHT": [
-        "dhedge-dao"
+    "NSBT": [
+        "neutrino-system-base-token"
     ],
     "COCOS": [
         "cocos-bcx"
@@ -1416,27 +1419,18 @@
     "SNTVT": [
         "sentivate"
     ],
-    "NSBT": [
-        "neutrino-system-base-token"
+    "NAS": [
+        "nebulas-token"
     ],
     "RFR": [
         "refereum",
         "refract"
     ],
-    "NAV": [
-        "nav-coin"
+    "UTNP": [
+        "universa"
     ],
     "GDC": [
         "global-digital-content"
-    ],
-    "NAS": [
-        "nebulas-token"
-    ],
-    "PERL": [
-        "perlin"
-    ],
-    "ZAP": [
-        "zap"
     ],
     "GAS": [
         "gas"
@@ -1447,8 +1441,20 @@
     "DTR": [
         "dynamic-trading-rights"
     ],
+    "PERL": [
+        "perlin"
+    ],
+    "NAV": [
+        "nav-coin"
+    ],
     "EMC2": [
         "einsteinium"
+    ],
+    "ZAP": [
+        "zap"
+    ],
+    "PICKLE": [
+        "pickle-finance"
     ],
     "TSHP": [
         "12ships"
@@ -1456,17 +1462,11 @@
     "SBD": [
         "steem-dollars"
     ],
-    "PICKLE": [
-        "pickle-finance"
-    ],
     "VRSC": [
         "veruscoin"
     ],
     "DAG": [
         "constellation"
-    ],
-    "DRGN": [
-        "dragonchain"
     ],
     "NKN": [
         "nkn"
@@ -1474,8 +1474,11 @@
     "WOM": [
         "wom-protocol"
     ],
-    "UTNP": [
-        "universa"
+    "DRGN": [
+        "dragonchain"
+    ],
+    "GAL": [
+        "galatasaray-fan-token"
     ],
     "FX": [
         "function-x"
@@ -1483,23 +1486,23 @@
     "FRONT": [
         "frontier"
     ],
+    "SRK": [
+        "sparkpoint"
+    ],
     "IHF": [
         "invictus-hyperion-fund"
     ],
-    "SRK": [
-        "sparkpoint"
+    "NEBL": [
+        "neblio"
     ],
     "NWC": [
         "newscrypto"
     ],
-    "GAL": [
-        "galatasaray-fan-token"
-    ],
     "DREP": [
         "drep"
     ],
-    "NEBL": [
-        "neblio"
+    "MDA": [
+        "moeda-loyalty-points"
     ],
     "SFT": [
         "safex-token"
@@ -1519,36 +1522,36 @@
     "ZYN": [
         "zynecoin"
     ],
-    "AOA": [
-        "aurora"
-    ],
-    "MDA": [
-        "moeda-loyalty-points"
-    ],
-    "XSR": [
-        "xensor"
+    "FIDA": [
+        "bonfida"
     ],
     "INFS": [
         "infinity-esaham"
     ],
-    "FIDA": [
-        "bonfida"
+    "AOA": [
+        "aurora"
     ],
-    "NVT": [
-        "nervenetwork"
+    "S4F": [
+        "s4fe"
     ],
     "ORAI": [
         "oraichain-token"
-    ],
-    "ROOK": [
-        "keeperdao"
     ],
     "MEME": [
         "degenerator-meme",
         "memetic"
     ],
+    "NVT": [
+        "nervenetwork"
+    ],
+    "ROOK": [
+        "keeperdao"
+    ],
     "MDT": [
         "measurable-data-token"
+    ],
+    "OST": [
+        "ost"
     ],
     "LGO": [
         "lgo-token"
@@ -1558,12 +1561,6 @@
     ],
     "RFI": [
         "reflect-finance"
-    ],
-    "OST": [
-        "ost"
-    ],
-    "BF": [
-        "bitforex-token"
     ],
     "USDJ": [
         "usdj"
@@ -1580,33 +1577,36 @@
     "ALEPH": [
         "aleph-im"
     ],
-    "MITH": [
-        "mithril"
-    ],
-    "AERGO": [
-        "aergo"
-    ],
-    "PHB": [
-        "phoenix-global"
+    "BF": [
+        "bitforex-token"
     ],
     "KDAG": [
         "king-dag"
+    ],
+    "PHB": [
+        "phoenix-global"
     ],
     "APL": [
         "apollo-currency",
         "apollon-limassol"
     ],
-    "CHR": [
-        "chromia"
+    "SNOW": [
+        "snowswap"
     ],
     "CVP": [
         "powerpool"
     ],
+    "CHR": [
+        "chromia"
+    ],
+    "AERGO": [
+        "aergo"
+    ],
     "TRUE": [
         "truechain"
     ],
-    "YF-DAI": [
-        "yfdai-finance"
+    "MITH": [
+        "mithril"
     ],
     "GHST": [
         "aavegotchi"
@@ -1620,43 +1620,46 @@
     "NXT": [
         "nxt"
     ],
-    "SNOW": [
-        "snowswap"
-    ],
-    "S4F": [
-        "s4fe"
+    "YF-DAI": [
+        "yfdai-finance"
     ],
     "PZM": [
         "prizm"
-    ],
-    "PTF": [
-        "powertrade-fuel"
-    ],
-    "KAN": [
-        "bitkan"
-    ],
-    "PROPS": [
-        "props"
-    ],
-    "MOF": [
-        "molecular-future"
-    ],
-    "WING": [
-        "wing",
-        "wingshop"
     ],
     "CRE": [
         "carry",
         "cybereits"
     ],
-    "FIS": [
-        "stafi"
+    "PTF": [
+        "powertrade-fuel"
     ],
     "XDB": [
         "digitalbits"
     ],
+    "WING": [
+        "wing",
+        "wingshop"
+    ],
+    "MOF": [
+        "molecular-future"
+    ],
+    "PROPS": [
+        "props"
+    ],
+    "FIS": [
+        "stafi"
+    ],
+    "KAN": [
+        "bitkan"
+    ],
     "SPND": [
         "spendcoin"
+    ],
+    "STAX": [
+        "stablexswap"
+    ],
+    "BHD": [
+        "bitcoinhd"
     ],
     "LA": [
         "latoken"
@@ -1664,55 +1667,45 @@
     "DEXT": [
         "dextools"
     ],
-    "STAX": [
-        "stablexswap"
-    ],
     "BWF": [
         "beowulf"
     ],
-    "BHD": [
-        "bitcoinhd"
+    "EDR": [
+        "endor-protocol"
     ],
     "KSP": [
         "klayswap-protocol"
     ],
-    "EDR": [
-        "endor-protocol"
+    "ABT": [
+        "arcblock"
+    ],
+    "MED": [
+        "medibloc"
+    ],
+    "GOM2": [
+        "animalgo"
+    ],
+    "BTC2": [
+        "bitcoin2"
+    ],
+    "BHP": [
+        "bhp-coin"
+    ],
+    "DOCK": [
+        "dock"
+    ],
+    "PAI": [
+        "project-pai"
+    ],
+    "SRN": [
+        "sirin-labs-token"
     ],
     "FCT": [
         "factom",
         "firmachain"
     ],
-    "ABT": [
-        "arcblock"
-    ],
-    "BTC2": [
-        "bitcoin2"
-    ],
     "VTC": [
         "vertcoin"
-    ],
-    "MED": [
-        "medibloc"
-    ],
-    "BHP": [
-        "bhp-coin"
-    ],
-    "GOM2": [
-        "animalgo"
-    ],
-    "AIDUS": [
-        "aidus-token"
-    ],
-    "STA": [
-        "statera",
-        "stable-asset"
-    ],
-    "PAI": [
-        "project-pai"
-    ],
-    "IQN": [
-        "iqeon"
     ],
     "RNDR": [
         "render-token"
@@ -1720,11 +1713,18 @@
     "PLC": [
         "platincoin"
     ],
-    "DOCK": [
-        "dock"
+    "XSR": [
+        "xensor"
     ],
-    "SRN": [
-        "sirin-labs-token"
+    "STA": [
+        "statera",
+        "stable-asset"
+    ],
+    "IQN": [
+        "iqeon"
+    ],
+    "AIDUS": [
+        "aidus-token"
     ],
     "UPP": [
         "sentinel-protocol"
@@ -1741,17 +1741,17 @@
     "MITX": [
         "morpheus-labs"
     ],
-    "PLTC": [
-        "platoncoin"
+    "PAC": [
+        "pac-global"
     ],
     "DYN": [
         "dynamic"
     ],
+    "PLTC": [
+        "platoncoin"
+    ],
     "THX": [
         "thorenext"
-    ],
-    "PAC": [
-        "pac-global"
     ],
     "NET": [
         "next"
@@ -1765,21 +1765,21 @@
     "ANW": [
         "anchor-neural-world"
     ],
-    "FXS": [
-        "frax-share"
-    ],
     "CTCN": [
         "contracoin"
+    ],
+    "FXS": [
+        "frax-share"
     ],
     "NMC": [
         "namecoin"
     ],
+    "ARCH": [
+        "archer-dao-governance-token"
+    ],
     "PNT": [
         "pnetwork",
         "penta"
-    ],
-    "ARCH": [
-        "archer-dao-governance-token"
     ],
     "HUM": [
         "humanscape"
@@ -1787,18 +1787,18 @@
     "BLOCK": [
         "blocknet"
     ],
+    "PI": [
+        "pchain"
+    ],
     "MLK": [
         "milk-alliance"
     ],
-    "PI": [
-        "pchain"
+    "EQUAD": [
+        "quadrantprotocol"
     ],
     "GXT": [
         "gem-exchange-and-trading",
         "global-x-change-token"
-    ],
-    "EQUAD": [
-        "quadrantprotocol"
     ],
     "KEY": [
         "selfkey",
@@ -1810,17 +1810,23 @@
     "KDA": [
         "kadena"
     ],
-    "SPC": [
-        "spacechain"
-    ],
-    "RDN": [
-        "raiden-network-token"
+    "TLOS": [
+        "telos"
     ],
     "GVT": [
         "genesis-vision"
     ],
-    "TLOS": [
-        "telos"
+    "TNB": [
+        "time-new-bank"
+    ],
+    "RDN": [
+        "raiden-network-token"
+    ],
+    "SPC": [
+        "spacechain"
+    ],
+    "MBL": [
+        "moviebloc"
     ],
     "SKY": [
         "skycoin"
@@ -1828,43 +1834,37 @@
     "EMRX": [
         "emirex-token"
     ],
-    "MBL": [
-        "moviebloc"
-    ],
-    "SHARE": [
-        "seigniorage-shares"
-    ],
     "BIRD": [
         "bird-money",
         "birdchain"
     ],
-    "MYST": [
-        "mysterium"
+    "ILC": [
+        "ilcoin"
     ],
     "vLTC": [
         "venus-ltc"
-    ],
-    "GO": [
-        "gochain"
-    ],
-    "AGA": [
-        "aga"
-    ],
-    "TNB": [
-        "time-new-bank"
     ],
     "PPC": [
         "peercoin",
         "philips-pay-coin"
     ],
-    "ILC": [
-        "ilcoin"
+    "AGA": [
+        "aga"
+    ],
+    "SHARE": [
+        "seigniorage-shares"
+    ],
+    "MYST": [
+        "mysterium"
+    ],
+    "XPR": [
+        "proton"
+    ],
+    "GO": [
+        "gochain"
     ],
     "DKA": [
         "dkargo"
-    ],
-    "SENT": [
-        "sentinel"
     ],
     "ZT": [
         "zbg-token"
@@ -1875,20 +1875,17 @@
     "GARD": [
         "hashgard"
     ],
-    "XPR": [
-        "proton"
+    "OAX": [
+        "oax"
     ],
     "JUV": [
         "juventus-fan-token"
     ],
-    "APPC": [
-        "appcoins"
+    "AYA": [
+        "aryacoin"
     ],
-    "OAX": [
-        "oax"
-    ],
-    "DEXE": [
-        "dexe"
+    "SENT": [
+        "sentinel"
     ],
     "PSG": [
         "paris-saint-germain-fan-token"
@@ -1896,17 +1893,20 @@
     "VITE": [
         "vite"
     ],
-    "AYA": [
-        "aryacoin"
-    ],
-    "IPX": [
-        "tachyon-protocol"
+    "DEXE": [
+        "dexe"
     ],
     "AOG": [
         "smartofgiving"
     ],
+    "IPX": [
+        "tachyon-protocol"
+    ],
     "ANCT": [
         "anchor"
+    ],
+    "APPC": [
+        "appcoins"
     ],
     "LCX": [
         "lcx"
@@ -1917,17 +1917,17 @@
     "BIKI": [
         "biki"
     ],
-    "XDN": [
-        "digitalnote"
-    ],
     "BZ": [
         "bit-z-token"
     ],
-    "ATRI": [
-        "atari-token"
+    "XDN": [
+        "digitalnote"
     ],
     "MARO": [
         "maro"
+    ],
+    "ATRI": [
+        "atari-token"
     ],
     "CUDOS": [
         "cudos"
@@ -1953,39 +1953,36 @@
     "PMA": [
         "pumapay"
     ],
-    "LOC": [
-        "lockchain"
-    ],
     "vSXP": [
         "vsxp"
     ],
-    "DSLA": [
-        "dsla-protocol"
+    "LOC": [
+        "lockchain"
     ],
     "MOC": [
         "moss-coin"
+    ],
+    "NCASH": [
+        "nucleus-vision"
+    ],
+    "DSLA": [
+        "dsla-protocol"
     ],
     "DOS": [
         "dos-network",
         "demos"
     ],
-    "NCASH": [
-        "nucleus-vision"
-    ],
-    "WABI": [
-        "wabi"
-    ],
     "FOR": [
         "the-force-protocol"
     ],
-    "DOUGH": [
-        "piedao-dough-v2"
+    "SWRV": [
+        "swerve"
     ],
     "KCASH": [
         "kcash"
     ],
-    "SWRV": [
-        "swerve"
+    "DOUGH": [
+        "piedao-dough-v2"
     ],
     "VIDY": [
         "vidy"
@@ -1993,23 +1990,32 @@
     "HUNT": [
         "hunt"
     ],
+    "SATT": [
+        "satt"
+    ],
     "USNBT": [
         "nubits"
     ],
     "ARMOR": [
         "armor"
     ],
+    "XTP": [
+        "tap"
+    ],
     "CET": [
         "coinex-token"
+    ],
+    "VIA": [
+        "viacoin"
+    ],
+    "WPR": [
+        "wepower"
     ],
     "LIKE": [
         "likecoin"
     ],
-    "XTP": [
-        "tap"
-    ],
-    "VIA": [
-        "viacoin"
+    "WABI": [
+        "wabi"
     ],
     "ACH": [
         "alchemy-pay"
@@ -2020,72 +2026,60 @@
     "APY": [
         "apy-finance"
     ],
-    "MAP": [
-        "map-protocol"
-    ],
     "LET": [
         "linkeye"
     ],
-    "SATT": [
-        "satt"
-    ],
-    "WPR": [
-        "wepower"
+    "MAP": [
+        "map-protocol"
     ],
     "SPI": [
         "shopping"
     ],
-    "GOC": [
-        "gocrypto-token"
-    ],
-    "TCT": [
-        "tokenclub"
-    ],
-    "DEX": [
-        "dex"
-    ],
     "LYXe": [
         "lukso"
+    ],
+    "GOC": [
+        "gocrypto-token"
     ],
     "AMO": [
         "amo-coin"
     ],
+    "VRS": [
+        "veros"
+    ],
+    "DEX": [
+        "dex"
+    ],
+    "TCT": [
+        "tokenclub"
+    ],
     "CRU": [
         "crust"
     ],
-    "NLG": [
-        "gulden"
-    ],
     "OBSR": [
         "observer"
+    ],
+    "NLG": [
+        "gulden"
     ],
     "CMT": [
         "cybermiles",
         "comet"
     ],
+    "CVA": [
+        "crypto-village-accelerator"
+    ],
     "HAI": [
         "hackenai"
-    ],
-    "MHC": [
-        "metahash"
     ],
     "MAHA": [
         "mahadao"
     ],
-    "PAY": [
-        "tenx"
-    ],
     "FO": [
         "fibos"
     ],
-    "EVX": [
-        "everex"
-    ],
-    "POA": [
-        "poa"
-    ],
-    "XIO": [
-        "blockzerolabs"
+    "MHC": [
+        "metahash"
     ],
     "TXL": [
         "tixl-new"
@@ -2093,11 +2087,26 @@
     "TRIX": [
         "triumphx"
     ],
+    "XIO": [
+        "blockzerolabs"
+    ],
+    "PAY": [
+        "tenx"
+    ],
+    "EVX": [
+        "everex"
+    ],
     "HGET": [
         "hedget"
     ],
     "HPB": [
         "high-performance-blockchain"
+    ],
+    "VNXLU": [
+        "vnx-exchange"
+    ],
+    "POA": [
+        "poa"
     ],
     "HAKKA": [
         "hakka-finance"
@@ -2108,6 +2117,9 @@
     "PXL": [
         "pixel"
     ],
+    "BRD": [
+        "bread"
+    ],
     "YLD": [
         "yield-app",
         "yield"
@@ -2115,14 +2127,8 @@
     "CVNT": [
         "content-value-network"
     ],
-    "VNXLU": [
-        "vnx-exchange"
-    ],
     "IDLE": [
         "idle"
-    ],
-    "BURST": [
-        "burst"
     ],
     "QTCON": [
         "quiztok"
@@ -2130,26 +2136,20 @@
     "DAPP": [
         "liquid-apps"
     ],
+    "BURST": [
+        "burst"
+    ],
     "WGR": [
         "wagerr"
     ],
-    "VRS": [
-        "veros"
-    ],
     "KRL": [
         "kryll"
-    ],
-    "BRD": [
-        "bread"
     ],
     "TRV": [
         "trustverse"
     ],
     "MXX": [
         "multiplier"
-    ],
-    "DUN": [
-        "dune-network"
     ],
     "BIP": [
         "minter-network"
@@ -2159,9 +2159,6 @@
     ],
     "OUSD": [
         "origin-dollar"
-    ],
-    "CWV": [
-        "cwv-chain"
     ],
     "FNB": [
         "fnb-protocol",
@@ -2173,14 +2170,14 @@
     "DYP": [
         "defi-yield-protocol"
     ],
+    "CWV": [
+        "cwv-chain"
+    ],
     "BTSE": [
         "btse"
     ],
     "UFT": [
         "unilend"
-    ],
-    "CVA": [
-        "crypto-village-accelerator"
     ],
     "VID": [
         "videocoin"
@@ -2203,8 +2200,9 @@
     "PRO": [
         "propy"
     ],
-    "TONE": [
-        "te-food"
+    "SDT": [
+        "stake-dao",
+        "terra-sdt"
     ],
     "TRTT": [
         "trittium"
@@ -2215,35 +2213,34 @@
     "ACT": [
         "achain"
     ],
+    "BAKE": [
+        "bakerytoken"
+    ],
     "XMY": [
         "myriad"
     ],
     "PLF": [
         "playfuel"
     ],
-    "SDT": [
-        "stake-dao",
-        "terra-sdt"
-    ],
     "mAMZN": [
         "mirrored-amazon"
-    ],
-    "BAKE": [
-        "bakerytoken"
-    ],
-    "RUFF": [
-        "ruff"
     ],
     "DERO": [
         "dero"
     ],
-    "CRON": [
-        "cryptocean"
+    "RUFF": [
+        "ruff"
     ],
     "TON": [
         "tokamak-network",
         "tontoken",
         "ton-crystal"
+    ],
+    "CRON": [
+        "cryptocean"
+    ],
+    "TONE": [
+        "te-food"
     ],
     "CBK": [
         "cobak-token"
@@ -2254,34 +2251,35 @@
     "FOAM": [
         "foam"
     ],
-    "QCX": [
-        "quickx-protocol"
-    ],
     "HTDF": [
         "orient-walt"
+    ],
+    "QCX": [
+        "quickx-protocol"
     ],
     "SOUL": [
         "phantasma",
         "cryptosoul",
         "chainz-arena"
     ],
-    "VIBE": [
-        "vibe"
-    ],
-    "SIX": [
-        "six"
-    ],
     "SEELE": [
         "seele"
     ],
-    "LEVL": [
-        "levolution"
+    "VIBE": [
+        "vibe"
+    ],
+    "BIZZ": [
+        "bizzcoin"
+    ],
+    "EM": [
+        "eminer",
+        "empow"
     ],
     "GRID": [
         "grid"
     ],
-    "BIZZ": [
-        "bizzcoin"
+    "LEVL": [
+        "levolution"
     ],
     "BULL": [
         "buysell",
@@ -2290,59 +2288,58 @@
     "VBIT": [
         "valobit"
     ],
-    "EM": [
-        "eminer",
-        "empow"
-    ],
     "PART": [
         "particl"
+    ],
+    "SIX": [
+        "six"
     ],
     "EGG": [
         "nestree",
         "nestegg-coin"
     ],
-    "APIX": [
-        "apix"
-    ],
     "NEW": [
         "newton"
+    ],
+    "APIX": [
+        "apix"
     ],
     "PROS": [
         "prosper"
     ],
-    "JUL": [
-        "justliquidity"
-    ],
     "KEX": [
         "kira-network"
     ],
-    "BFT": [
-        "bnktothefuture"
+    "COV": [
+        "covesting"
     ],
     "MOBI": [
         "mobius"
     ],
+    "BFT": [
+        "bnktothefuture"
+    ],
     "MRX": [
         "metrix-coin"
-    ],
-    "mNFLX": [
-        "mirrored-netflix"
-    ],
-    "COV": [
-        "covesting"
     ],
     "NDX": [
         "indexed-finance",
         "ndex"
     ],
-    "mIAU": [
-        "mirrored-ishares-gold-trust"
+    "JUL": [
+        "justliquidity"
+    ],
+    "mNFLX": [
+        "mirrored-netflix"
     ],
     "EL": [
         "elysia"
     ],
     "WOO": [
         "wootrade"
+    ],
+    "mIAU": [
+        "mirrored-ishares-gold-trust"
     ],
     "AITRA": [
         "aitra"
@@ -2359,38 +2356,41 @@
     "ANJ": [
         "aragon-court"
     ],
-    "DLT": [
-        "agrello-delta"
-    ],
     "SHA": [
         "safe-haven"
     ],
     "SMART": [
         "smartcash"
     ],
-    "UCA": [
-        "uca-coin"
+    "DLT": [
+        "agrello-delta"
     ],
     "EFX": [
         "effect-ai"
+    ],
+    "UCA": [
+        "uca-coin"
     ],
     "GEO": [
         "geodb",
         "geocoin"
     ],
-    "SWINGBY": [
-        "swingby"
-    ],
     "TOP": [
         "top",
         "tokenswap"
+    ],
+    "DVC": [
+        "dragonvein"
     ],
     "TEN": [
         "tokenomy",
         "tenet"
     ],
-    "DVC": [
-        "dragonvein"
+    "LBTC": [
+        "lightning-bitcoin"
+    ],
+    "PLR": [
+        "pillar"
     ],
     "FLASH": [
         "flash"
@@ -2398,23 +2398,17 @@
     "SNC": [
         "suncontract"
     ],
-    "PLR": [
-        "pillar"
-    ],
     "VEE": [
         "blockv"
     ],
     "GEEQ": [
         "geeq"
     ],
-    "LBTC": [
-        "lightning-bitcoin"
+    "SWINGBY": [
+        "swingby"
     ],
     "mTSLA": [
         "mirrored-tesla"
-    ],
-    "GNX": [
-        "genaro-network"
     ],
     "SUTER": [
         "suterusu"
@@ -2422,14 +2416,17 @@
     "MTLX": [
         "mettalex"
     ],
+    "GNX": [
+        "genaro-network"
+    ],
     "ROOBEE": [
         "roobee"
     ],
-    "42": [
-        "42-coin"
-    ],
     "XPN": [
         "pantheon-x"
+    ],
+    "42": [
+        "42-coin"
     ],
     "MARK": [
         "benchmark-protocol"
@@ -2440,14 +2437,11 @@
     "SWACE": [
         "swace"
     ],
-    "mQQQ": [
-        "mirrored-invesco-qqq-trust"
-    ],
     "QLC": [
         "qlink"
     ],
-    "PING": [
-        "cryptoping"
+    "mQQQ": [
+        "mirrored-invesco-qqq-trust"
     ],
     "KTON": [
         "darwinia-commitment-token"
@@ -2461,6 +2455,9 @@
     "HOLD": [
         "hold"
     ],
+    "PING": [
+        "cryptoping"
+    ],
     "SNGLS": [
         "singulardtv"
     ],
@@ -2470,14 +2467,14 @@
         "cryptobharatcoin",
         "cryptobosscoin"
     ],
-    "FAT": [
-        "fatcoin"
+    "AUC": [
+        "auctus"
     ],
     "DEP": [
         "deapcoin"
     ],
-    "AUC": [
-        "auctus"
+    "FAT": [
+        "fatcoin"
     ],
     "mMSFT": [
         "mirrored-microsoft"
@@ -2485,14 +2482,12 @@
     "BIX": [
         "bibox-token"
     ],
-    "GEN": [
-        "daostack"
-    ],
     "mBABA": [
         "mirrored-alibaba"
     ],
-    "NCT": [
-        "polyswarm"
+    "DMD": [
+        "diamond",
+        "dmd"
     ],
     "EMC": [
         "emercoin",
@@ -2501,36 +2496,32 @@
     "mAAPL": [
         "mirrored-apple"
     ],
-    "TOSC": [
-        "t-os"
-    ],
     "LVX": [
         "level01"
+    ],
+    "TOSC": [
+        "t-os"
     ],
     "JNT": [
         "jibrel-network"
     ],
-    "PCM": [
-        "precium"
-    ],
     "GLC": [
         "goldcoin"
     ],
-    "DMD": [
-        "diamond",
-        "dmd"
+    "PCM": [
+        "precium"
     ],
-    "ZASH": [
-        "zimbocash"
+    "GEN": [
+        "daostack"
     ],
     "mTWTR": [
         "mirrored-twitter"
     ],
-    "BPC": [
-        "backpacker-coin"
+    "CARD": [
+        "cardstack"
     ],
-    "XPX": [
-        "proximax"
+    "ZASH": [
+        "zimbocash"
     ],
     "GET": [
         "get-protocol",
@@ -2540,20 +2531,20 @@
     "mSLV": [
         "mirrored-ishares-silver-trust"
     ],
-    "WET": [
-        "weshow-token"
-    ],
-    "CARD": [
-        "cardstack"
+    "BPC": [
+        "backpacker-coin"
     ],
     "FLETA": [
         "fleta"
     ],
-    "PLU": [
-        "pluton"
+    "NCT": [
+        "polyswarm"
     ],
-    "RINGX": [
-        "ring-x-platform"
+    "ZANO": [
+        "zano"
+    ],
+    "WET": [
+        "weshow-token"
     ],
     "GHOST": [
         "ghostprism",
@@ -2562,39 +2553,45 @@
     "ASR": [
         "as-roma-fan-token"
     ],
-    "SWFTC": [
-        "swftcoin"
+    "RINGX": [
+        "ring-x-platform"
     ],
     "ITC": [
         "iot-chain"
     ],
-    "ZANO": [
-        "zano"
+    "SWFTC": [
+        "swftcoin"
+    ],
+    "PLU": [
+        "pluton"
     ],
     "ERC20": [
         "erc20"
     ],
+    "XPX": [
+        "proximax"
+    ],
+    "RPZX": [
+        "rapidz"
+    ],
     "MTH": [
         "monetha"
     ],
-    "VALOR": [
-        "valor-token"
-    ],
     "TEMCO": [
         "temco"
+    ],
+    "VALOR": [
+        "valor-token"
     ],
     "CPAY": [
         "cryptopay",
         "chainpay"
     ],
-    "SPANK": [
-        "spankchain"
-    ],
     "AQT": [
         "alpha-quark-token"
     ],
-    "RPZX": [
-        "rapidz"
+    "SPANK": [
+        "spankchain"
     ],
     "NIX": [
         "nix"
@@ -2609,6 +2606,9 @@
     "GAP": [
         "gaps"
     ],
+    "VIB": [
+        "viberate"
+    ],
     "XCP": [
         "counterparty"
     ],
@@ -2616,8 +2616,11 @@
         "ternio",
         "ternio-erc20"
     ],
-    "VIB": [
-        "viberate"
+    "DGTX": [
+        "digitex-city"
+    ],
+    "ZEFU": [
+        "zenfuse"
     ],
     "CUT": [
         "cutcoin"
@@ -2628,14 +2631,11 @@
     "CLO": [
         "callisto-network"
     ],
+    "NYC": [
+        "newyorkcoin"
+    ],
     "FTC": [
         "feathercoin"
-    ],
-    "DGTX": [
-        "digitex-city"
-    ],
-    "ZEFU": [
-        "zenfuse"
     ],
     "COLX": [
         "colossusxt"
@@ -2643,14 +2643,11 @@
     "NTY": [
         "nexty"
     ],
-    "TRADE": [
-        "unitrade"
-    ],
-    "NYC": [
-        "newyorkcoin"
-    ],
     "DTA": [
         "data"
+    ],
+    "TRADE": [
+        "unitrade"
     ],
     "PCL": [
         "peculium"
@@ -2658,17 +2655,17 @@
     "NEU": [
         "neumark"
     ],
-    "APM": [
-        "apm-coin"
-    ],
     "QAC": [
         "quasarcoin"
+    ],
+    "DCN": [
+        "dentacoin"
     ],
     "ZCL": [
         "zclassic"
     ],
-    "DCN": [
-        "dentacoin"
+    "APM": [
+        "apm-coin"
     ],
     "DONUT": [
         "donut"
@@ -2694,23 +2691,20 @@
     "mVIXY": [
         "mirrored-proshares-vix-short-term-futures-etf"
     ],
-    "SMARTCREDIT": [
-        "smartcredit-token"
-    ],
     "BLY": [
         "blocery"
-    ],
-    "QBX": [
-        "qiibee"
     ],
     "FREE": [
         "free-coin"
     ],
+    "SMARTCREDIT": [
+        "smartcredit-token"
+    ],
+    "QBX": [
+        "qiibee"
+    ],
     "LKK": [
         "lykke"
-    ],
-    "TERA": [
-        "tera"
     ],
     "GTC": [
         "game"
@@ -2718,27 +2712,26 @@
     "GRC": [
         "gridcoin"
     ],
-    "FNX": [
-        "finnexus"
+    "TERA": [
+        "tera"
     ],
     "DGX": [
         "digix-gold-token"
     ],
-    "XCASH": [
-        "x-cash"
+    "FNX": [
+        "finnexus"
     ],
-    "SAFE": [
-        "safe",
-        "safecoin"
+    "REM": [
+        "remme"
     ],
     "EASY": [
         "easyfi"
     ],
+    "XCASH": [
+        "x-cash"
+    ],
     "UTT": [
         "uttoken"
-    ],
-    "JOB": [
-        "jobchain"
     ],
     "mUSO": [
         "mirrored-united-states-oil-fund"
@@ -2747,17 +2740,11 @@
         "odem",
         "ode"
     ],
-    "XMX": [
-        "xmax"
-    ],
-    "BSTY": [
-        "globalboost-y"
-    ],
     "POT": [
         "potcoin"
     ],
-    "REM": [
-        "remme"
+    "NLC2": [
+        "nolimitcoin"
     ],
     "TAU": [
         "lamden"
@@ -2765,20 +2752,24 @@
     "INEX": [
         "inex-project"
     ],
-    "NLC2": [
-        "nolimitcoin"
-    ],
     "DEV": [
         "dev-protocol"
     ],
-    "NGC": [
-        "naga"
+    "XMX": [
+        "xmax"
     ],
     "SMT": [
         "smartmesh"
     ],
     "DJV": [
         "dejave"
+    ],
+    "NGC": [
+        "naga"
+    ],
+    "SAFE": [
+        "safe",
+        "safecoin"
     ],
     "SYM": [
         "symverse"
@@ -2789,14 +2780,14 @@
     "SCP": [
         "scprime"
     ],
+    "JOB": [
+        "jobchain"
+    ],
+    "DUN": [
+        "dune-network"
+    ],
     "ABYSS": [
         "abyss"
-    ],
-    "CV": [
-        "carvertical"
-    ],
-    "TONS": [
-        "thisoption"
     ],
     "CSC": [
         "casinocoin"
@@ -2807,6 +2798,9 @@
     "NSURE": [
         "nsure-network"
     ],
+    "CV": [
+        "carvertical"
+    ],
     "XYO": [
         "xyo"
     ],
@@ -2816,30 +2810,36 @@
     "TRIO": [
         "tripio"
     ],
-    "SLT": [
-        "smartlands-network",
-        "social-lending-token"
+    "CXO": [
+        "cargox"
     ],
     "YOU": [
         "you-coin"
     ],
+    "SLT": [
+        "smartlands-network",
+        "social-lending-token"
+    ],
     "RARI": [
         "rarible"
+    ],
+    "TONS": [
+        "thisoption"
     ],
     "MDS": [
         "medishares"
     ],
-    "BITG": [
-        "bitgreen"
-    ],
     "BAAS": [
         "baasid"
     ],
-    "CXO": [
-        "cargox"
+    "BITG": [
+        "bitgreen"
     ],
     "VNT": [
         "vnt-chain"
+    ],
+    "MAN": [
+        "matrix-ai-network"
     ],
     "TAC": [
         "traceability-chain"
@@ -2847,8 +2847,8 @@
     "DPT": [
         "diamond-platform-token"
     ],
-    "ZEL": [
-        "zel"
+    "ZEE": [
+        "zeroswap"
     ],
     "OPEN": [
         "opendao",
@@ -2857,11 +2857,11 @@
     "MFG": [
         "smart-mfg"
     ],
+    "ZEL": [
+        "zel"
+    ],
     "DCNTR": [
         "decentrahub-coin"
-    ],
-    "ZEE": [
-        "zeroswap"
     ],
     "SONO": [
         "sonocoin",
@@ -2873,9 +2873,6 @@
     "DRG": [
         "dragon-coins"
     ],
-    "CPC": [
-        "cpchain"
-    ],
     "INCNT": [
         "incent"
     ],
@@ -2883,14 +2880,20 @@
         "bitrue-coin",
         "bitether"
     ],
+    "CPC": [
+        "cpchain"
+    ],
+    "TUBE": [
+        "bit-tube"
+    ],
     "IDH": [
         "indahash"
     ],
     "IFC": [
         "infinitecoin"
     ],
-    "TUBE": [
-        "bit-tube"
+    "BCPT": [
+        "blockmason"
     ],
     "KARMA": [
         "karma-eos"
@@ -2899,17 +2902,23 @@
         "atlas-protocol",
         "alaya"
     ],
+    "LIT": [
+        "lition"
+    ],
     "IDRT": [
         "rupiah-token"
+    ],
+    "RNO": [
+        "earneo"
     ],
     "RNT": [
         "oneroot-network"
     ],
-    "BCPT": [
-        "blockmason"
+    "DTEP": [
+        "decoin"
     ],
-    "RNO": [
-        "earneo"
+    "GIO": [
+        "graviocoin"
     ],
     "MOON": [
         "mooncoin",
@@ -2918,23 +2927,14 @@
     "AEON": [
         "aeon"
     ],
-    "TRTL": [
-        "turtlecoin"
-    ],
-    "GIO": [
-        "graviocoin"
+    "SENSE": [
+        "sense"
     ],
     "WISH": [
         "mywish"
     ],
-    "DTEP": [
-        "decoin"
-    ],
     "TOA": [
         "toacoin"
-    ],
-    "SENSE": [
-        "sense"
     ],
     "TFB": [
         "truefeedback"
@@ -2942,26 +2942,29 @@
     "MIDAS": [
         "midas"
     ],
-    "FLO": [
-        "flo"
-    ],
-    "LIT": [
-        "lition"
-    ],
     "EFL": [
         "e-gulden"
-    ],
-    "SSX": [
-        "somesing"
-    ],
-    "MAN": [
-        "matrix-ai-network"
     ],
     "PMEER": [
         "qitmeer"
     ],
+    "SSX": [
+        "somesing"
+    ],
+    "TRTL": [
+        "turtlecoin"
+    ],
     "SENSO": [
         "senso"
+    ],
+    "PHR": [
+        "phore"
+    ],
+    "BSTY": [
+        "globalboost-y"
+    ],
+    "ROX": [
+        "robotina"
     ],
     "UIP": [
         "unlimitedip"
@@ -2969,22 +2972,21 @@
     "VDG": [
         "veridocglobal"
     ],
-    "ROX": [
-        "robotina"
-    ],
     "VAL": [
         "validity",
         "sora-validator-token"
     ],
+    "TERC": [
+        "troneuroperewardcoin"
+    ],
     "NORD": [
         "nord-finance"
     ],
-    "EPIC": [
-        "epic-cash",
-        "epic"
+    "FLO": [
+        "flo"
     ],
-    "TERC": [
-        "troneuroperewardcoin"
+    "XFT": [
+        "offshift"
     ],
     "BZNT": [
         "bezant"
@@ -2998,36 +3000,40 @@
     "UUU": [
         "u-network"
     ],
-    "ABL": [
-        "airbloc"
-    ],
     "VRA": [
         "verasity"
     ],
-    "XMC": [
-        "monero-classic"
+    "ABL": [
+        "airbloc"
+    ],
+    "EPIC": [
+        "epic-cash",
+        "epic"
     ],
     "BIDR": [
         "binance-idr"
+    ],
+    "XMC": [
+        "monero-classic"
     ],
     "BUX": [
         "bux-token",
         "buxcoin"
     ],
-    "PHR": [
-        "phore"
+    "AVT": [
+        "aventus"
+    ],
+    "JRT": [
+        "jarvis-network"
     ],
     "LYM": [
         "lympo"
     ],
-    "AVT": [
-        "aventus"
-    ],
-    "XFT": [
-        "offshift"
-    ],
     "HTML": [
         "html-coin"
+    ],
+    "EGT": [
+        "egretia"
     ],
     "HYC": [
         "hycon"
@@ -3035,14 +3041,8 @@
     "AMN": [
         "amon"
     ],
-    "JRT": [
-        "jarvis-network"
-    ],
     "HOLY": [
         "holyheld"
-    ],
-    "EGT": [
-        "egretia"
     ],
     "IDNA": [
         "idena"
@@ -3050,14 +3050,17 @@
     "ANY": [
         "anyswap"
     ],
+    "PAR": [
+        "parachute"
+    ],
     "EXM": [
         "exmo-coin"
     ],
     "NAX": [
         "nextdao"
     ],
-    "NPXSXEM": [
-        "pundi-x-nem"
+    "OK": [
+        "okcash"
     ],
     "OGO": [
         "origo"
@@ -3065,17 +3068,14 @@
     "NIOX": [
         "autonio"
     ],
-    "OK": [
-        "okcash"
+    "HDAO": [
+        "hyperdao"
     ],
     "MCI": [
         "multi-channel-influencer-creater-cloud-funding-platform"
     ],
     "PRS": [
         "pressone"
-    ],
-    "HDAO": [
-        "hyperdao"
     ],
     "BST": [
         "blockstamp",
@@ -3084,26 +3084,23 @@
     "INSTAR": [
         "insights-network"
     ],
+    "BLK": [
+        "blackcoin"
+    ],
     "PIB": [
         "pibble"
-    ],
-    "INT": [
-        "int-chain"
-    ],
-    "PAR": [
-        "parachute"
     ],
     "EOSDT": [
         "eosdt"
     ],
-    "XLQ": [
-        "alqo"
+    "INT": [
+        "int-chain"
     ],
     "NEAL": [
         "coineal-token"
     ],
-    "BLK": [
-        "blackcoin"
+    "XLQ": [
+        "alqo"
     ],
     "QRK": [
         "quark"
@@ -3111,8 +3108,14 @@
     "MWAT": [
         "restart-energy-mwat"
     ],
+    "BAX": [
+        "babb"
+    ],
     "TNT": [
         "tierion"
+    ],
+    "NPXSXEM": [
+        "pundi-x-nem"
     ],
     "MLC": [
         "mallcoin"
@@ -3120,23 +3123,20 @@
     "KDG": [
         "kingdom-game-4"
     ],
-    "LAYER": [
-        "unilayer"
-    ],
-    "BAX": [
-        "babb"
-    ],
-    "ROYA": [
-        "royale-finance"
-    ],
     "INE": [
         "intellishare"
     ],
     "AAC": [
         "acute-angle-cloud"
     ],
+    "LAYER": [
+        "unilayer"
+    ],
     "WINGS": [
         "wings"
+    ],
+    "ROYA": [
+        "royale-finance"
     ],
     "XRC": [
         "xrhodium",
@@ -3145,14 +3145,11 @@
     "FESS": [
         "fesschain"
     ],
-    "WIRE": [
-        "airwire"
-    ],
     "CSP": [
         "caspian"
     ],
-    "VIN": [
-        "vinchain"
+    "WIRE": [
+        "airwire"
     ],
     "CHI": [
         "chi-gastoken",
@@ -3174,29 +3171,36 @@
     "ARDX": [
         "ardcoin"
     ],
+    "KIMCHI": [
+        "kimchi-finance"
+    ],
     "CLB": [
         "cloudbric"
     ],
     "DBC": [
         "deepbrain-chain"
     ],
-    "KIMCHI": [
-        "kimchi-finance"
+    "VIN": [
+        "vinchain"
+    ],
+    "CATT": [
+        "catex-token"
     ],
     "DACS": [
         "dacsee"
     ],
-    "CATT": [
-        "catex-token"
+    "XST": [
+        "stealth",
+        "xstable-protocol"
+    ],
+    "EXRN": [
+        "exrnchain"
     ],
     "HIT": [
         "hitchain"
     ],
     "HYN": [
         "hyperion"
-    ],
-    "EXRN": [
-        "exrnchain"
     ],
     "FWT": [
         "freeway-token"
@@ -3210,6 +3214,9 @@
     "XAUR": [
         "xaurum"
     ],
+    "HLC": [
+        "halalchain"
+    ],
     "BART": [
         "bartertrade"
     ],
@@ -3219,37 +3226,30 @@
     "NYZO": [
         "nyzo"
     ],
+    "CRW": [
+        "crown"
+    ],
     "THC": [
         "hempcoin"
-    ],
-    "XST": [
-        "stealth",
-        "xstable-protocol"
     ],
     "DZI": [
         "definition"
     ],
-    "NCDT": [
-        "nuco-cloud"
-    ],
-    "GSC": [
-        "global-social-chain"
+    "NOW": [
+        "now-token"
     ],
     "COU": [
         "couchain"
     ],
-    "NOW": [
-        "now-token"
-    ],
-    "CRW": [
-        "crown"
-    ],
-    "DAX": [
-        "daex"
-    ],
     "GCC": [
         "global-cryptocurrency",
         "guccionecoin"
+    ],
+    "GSC": [
+        "global-social-chain"
+    ],
+    "DAX": [
+        "daex"
     ],
     "BAN": [
         "banano"
@@ -3260,45 +3260,45 @@
     "RAVEN": [
         "raven-protocol"
     ],
-    "BIS": [
-        "bismuth"
-    ],
     "AXPR": [
         "axpr-token"
+    ],
+    "BIS": [
+        "bismuth"
     ],
     "SNB": [
         "synchrobitcoin"
     ],
-    "RTH": [
-        "rotharium"
+    "OMC": [
+        "ormeus-cash"
     ],
-    "TENT": [
-        "tent"
+    "NCDT": [
+        "nuco-cloud"
     ],
     "NFXC": [
         "nfx-coin"
     ],
-    "OMC": [
-        "ormeus-cash"
-    ],
-    "HOMI": [
-        "homihelp"
-    ],
     "EOSC": [
         "eos-force"
+    ],
+    "RTH": [
+        "rotharium"
     ],
     "EZW": [
         "ezoow"
     ],
+    "HOMI": [
+        "homihelp"
+    ],
     "ETHO": [
         "ether-1"
-    ],
-    "PINK": [
-        "pinkcoin"
     ],
     "XFI": [
         "xfinance",
         "dfinance"
+    ],
+    "PINK": [
+        "pinkcoin"
     ],
     "0xBTC": [
         "0xbtc"
@@ -3313,21 +3313,21 @@
     "BCDT": [
         "blockchain-certified-data-token"
     ],
+    "ENG": [
+        "enigma"
+    ],
     "NBOT": [
         "naka-bodhi-token"
-    ],
-    "HLC": [
-        "halalchain"
     ],
     "EDC": [
         "edc-blockchain",
         "earn-defi"
     ],
-    "D": [
-        "denarius-d"
-    ],
     "ECO": [
         "ormeus-ecosystem"
+    ],
+    "D": [
+        "denarius-d"
     ],
     "GENE": [
         "parkgene",
@@ -3339,11 +3339,14 @@
     "AUR": [
         "auroracoin"
     ],
-    "OLT": [
-        "oneledger"
+    "TENT": [
+        "tent"
     ],
     "VSF": [
         "verisafe"
+    ],
+    "OLT": [
+        "oneledger"
     ],
     "ONOT": [
         "onotoken"
@@ -3351,17 +3354,14 @@
     "SYLO": [
         "sylo"
     ],
-    "CRBN": [
-        "carbon"
-    ],
-    "XAS": [
-        "asch"
-    ],
     "VEX": [
         "vexanium"
     ],
-    "NEXXO": [
-        "nexxo"
+    "CRBN": [
+        "carbon"
+    ],
+    "EKT": [
+        "educare"
     ],
     "PLA": [
         "planet",
@@ -3369,11 +3369,15 @@
         "playdapp",
         "playchip"
     ],
-    "EKT": [
-        "educare"
+    "NEXXO": [
+        "nexxo"
     ],
     "MVP": [
         "merculet"
+    ],
+    "TIME": [
+        "chrono-tech",
+        "timeminer"
     ],
     "MANNA": [
         "manna"
@@ -3381,30 +3385,26 @@
     "WCT": [
         "waves-community-token"
     ],
-    "TIME": [
-        "chrono-tech",
-        "timeminer"
+    "LEDU": [
+        "education-ecosystem"
     ],
     "LINKA": [
         "linka"
     ],
-    "LEDU": [
-        "education-ecosystem"
-    ],
-    "ENG": [
-        "enigma"
-    ],
     "CHP": [
         "coinpoker"
-    ],
-    "BNY": [
-        "bancacy"
     ],
     "BASE": [
         "base-protocol"
     ],
+    "BNY": [
+        "bancacy"
+    ],
     "VRC": [
         "vericoin"
+    ],
+    "TOL": [
+        "tolar"
     ],
     "OWC": [
         "oduwa"
@@ -3427,12 +3427,6 @@
     "N8V": [
         "native-coin"
     ],
-    "DIME": [
-        "dimecoin"
-    ],
-    "1WO": [
-        "1world"
-    ],
     "GRG": [
         "rigoblock"
     ],
@@ -3442,26 +3436,29 @@
     "OCN": [
         "odyssey"
     ],
+    "XAS": [
+        "asch"
+    ],
     "NBX": [
         "netbox-coin"
     ],
-    "HYDRO": [
-        "hydro"
-    ],
-    "TOL": [
-        "tolar"
+    "1WO": [
+        "1world"
     ],
     "YEE": [
         "yee"
+    ],
+    "DDK": [
+        "ddkoin"
+    ],
+    "COT": [
+        "cotrader"
     ],
     "ZRC": [
         "zrcoin"
     ],
     "EXY": [
         "experty"
-    ],
-    "DDK": [
-        "ddkoin"
     ],
     "KT": [
         "kuai-token"
@@ -3476,15 +3473,11 @@
     "AUTO": [
         "cube"
     ],
-    "ADS": [
-        "adshares"
-    ],
-    "INX": [
-        "insight-protocol",
-        "inmax"
-    ],
     "OCE": [
         "oceanex-token"
+    ],
+    "ADS": [
+        "adshares"
     ],
     "BBR": [
         "boolberry"
@@ -3493,26 +3486,34 @@
         "blink",
         "blockmason-link"
     ],
-    "WPP": [
-        "wpp-token"
-    ],
     "TKY": [
         "thekey"
-    ],
-    "MODIC": [
-        "modern-investment-coin"
-    ],
-    "BCV": [
-        "bitcapitalvendor"
     ],
     "PHNX": [
         "phoenixdao"
     ],
-    "PIRATE": [
-        "piratecash"
+    "XRA": [
+        "xriba",
+        "ratecoin"
+    ],
+    "WPP": [
+        "wpp-token"
+    ],
+    "MODIC": [
+        "modern-investment-coin"
+    ],
+    "INX": [
+        "insight-protocol",
+        "inmax"
+    ],
+    "BCV": [
+        "bitcapitalvendor"
     ],
     "QUN": [
         "qunqun"
+    ],
+    "PIRATE": [
+        "piratecash"
     ],
     "PLOT": [
         "plotx"
@@ -3521,31 +3522,23 @@
         "curecoin",
         "cure-farm"
     ],
-    "XRA": [
-        "xriba",
-        "ratecoin"
-    ],
-    "SPHR": [
-        "sphere"
-    ],
-    "ISIKC": [
-        "isiklar-coin"
+    "VIPS": [
+        "vipstar-coin"
     ],
     "xBTC": [
         "xbtc"
     ],
+    "SPHR": [
+        "sphere"
+    ],
     "IGG": [
         "ig-gold"
     ],
-    "VIPS": [
-        "vipstar-coin"
+    "ISIKC": [
+        "isiklar-coin"
     ],
-    "COT": [
-        "cotrader"
-    ],
-    "UFO": [
-        "uniform-fiscal-object",
-        "unknown-fair-object"
+    "UT": [
+        "ulord"
     ],
     "EXP": [
         "expanse",
@@ -3560,36 +3553,43 @@
     "LBA": [
         "libra-credit"
     ],
-    "ERK": [
-        "eureka-coin"
+    "REEC": [
+        "electronic-energy-coin"
     ],
     "WNL": [
         "winstars-live"
     ],
-    "WOW": [
-        "wownero"
-    ],
     "PASC": [
         "pascal"
     ],
-    "REEC": [
-        "electronic-energy-coin"
+    "HYDRO": [
+        "hydro"
+    ],
+    "ERK": [
+        "eureka-coin"
     ],
     "TELOS": [
         "teloscoin"
     ],
+    "OWN": [
+        "owndata"
+    ],
     "BET": [
         "daobet",
         "earnbet"
-    ],
-    "OWN": [
-        "owndata"
     ],
     "LXT": [
         "litex"
     ],
     "BTB": [
         "bitball"
+    ],
+    "UFO": [
+        "uniform-fiscal-object",
+        "unknown-fair-object"
+    ],
+    "WOW": [
+        "wownero"
     ],
     "XHI": [
         "hicoin"
@@ -3610,31 +3610,31 @@
     "EXE": [
         "8x8-protocol"
     ],
-    "XBY": [
-        "xtrabytes"
-    ],
     "NEWS": [
         "publish"
     ],
+    "XBY": [
+        "xtrabytes"
+    ],
     "SFD": [
         "safe-deal"
-    ],
-    "SPAZ": [
-        "swapcoinz"
     ],
     "CORN": [
         "cornichon",
         "corn",
         "popcorn"
     ],
+    "SPAZ": [
+        "swapcoinz"
+    ],
     "TX": [
         "transfercoin"
     ],
-    "FUND": [
-        "unification"
-    ],
     "NSR": [
         "nushares"
+    ],
+    "KAT": [
+        "kambria"
     ],
     "SIN": [
         "sinovate"
@@ -3650,11 +3650,8 @@
         "meridian-network",
         "sherlock-security"
     ],
-    "KAT": [
-        "kambria"
-    ],
-    "UT": [
-        "ulord"
+    "FUND": [
+        "unification"
     ],
     "XPM": [
         "primecoin"
@@ -3665,18 +3662,18 @@
     "ETHM": [
         "ethereum-meta"
     ],
-    "LCS": [
-        "local-coin-swap"
-    ],
     "IETH": [
         "iethereum",
         "ieth"
     ],
-    "CNTM": [
-        "connectome"
+    "LCS": [
+        "local-coin-swap"
     ],
     "TEND": [
         "tendies"
+    ],
+    "CNTM": [
+        "connectome"
     ],
     "XFC": [
         "footballcoin"
@@ -3684,13 +3681,11 @@
     "BITB": [
         "bean-cash"
     ],
+    "2KEY": [
+        "2key-network"
+    ],
     "TKS": [
         "tokes"
-    ],
-    "DRC": [
-        "dracula-token",
-        "digital-reserve-currency",
-        "drc-mobility"
     ],
     "DTX": [
         "databroker"
@@ -3698,20 +3693,28 @@
     "EOST": [
         "eos-trust"
     ],
-    "2KEY": [
-        "2key-network"
+    "DRC": [
+        "dracula-token",
+        "digital-reserve-currency",
+        "drc-mobility"
+    ],
+    "CAI": [
+        "club-atletico-independiente"
     ],
     "CAJ": [
         "cajutel"
     ],
-    "CAI": [
-        "club-atletico-independiente"
+    "DIME": [
+        "dimecoin"
     ],
     "HVN": [
         "hiveterminal-token"
     ],
     "BIR": [
         "birake"
+    ],
+    "EVY": [
+        "everycoin"
     ],
     "SIGN": [
         "signature-chain"
@@ -3720,14 +3723,11 @@
         "open-predict-token",
         "opus"
     ],
-    "GEAR": [
-        "bitgear"
-    ],
     "RVC": [
         "ravencoin-classic"
     ],
-    "EVY": [
-        "everycoin"
+    "GEAR": [
+        "bitgear"
     ],
     "BWX": [
         "blue-whale-exchange"
@@ -3741,12 +3741,12 @@
     "VITES": [
         "vites"
     ],
-    "PWR": [
-        "powercoin"
-    ],
     "LOL": [
         "loltoken",
         "emogi-network"
+    ],
+    "PWR": [
+        "powercoin"
     ],
     "BXY": [
         "beaxy"
@@ -3754,20 +3754,23 @@
     "KUBO": [
         "kubocoin"
     ],
-    "NKC": [
-        "nework"
+    "LOBS": [
+        "lobstex"
     ],
     "ZP": [
         "zen-protocol"
-    ],
-    "LOBS": [
-        "lobstex"
     ],
     "INF": [
         "infinitus-token"
     ],
     "ISR": [
         "insureum"
+    ],
+    "NKC": [
+        "nework"
+    ],
+    "PLT": [
+        "add-xyz"
     ],
     "IMT": [
         "moneytoken",
@@ -3776,17 +3779,20 @@
     "MEC": [
         "megacoin"
     ],
-    "UFR": [
-        "upfiring"
+    "YEC": [
+        "ycash"
     ],
     "BOOM": [
         "boom"
     ],
-    "CVN": [
-        "cvcoin"
+    "UFR": [
+        "upfiring"
     ],
     "JUI": [
         "juiice"
+    ],
+    "CVN": [
+        "cvcoin"
     ],
     "RIGEL": [
         "rigel-finance"
@@ -3794,23 +3800,17 @@
     "XBX": [
         "bitex-global-xbx-coin"
     ],
-    "ADM": [
-        "adamant-messenger"
-    ],
     "HYVE": [
         "hyve"
     ],
     "ENQ": [
         "enecuum"
     ],
-    "YEC": [
-        "ycash"
-    ],
     "SLR": [
         "solarcoin"
     ],
-    "CEEK": [
-        "ceek-vr"
+    "ADM": [
+        "adamant-messenger"
     ],
     "PAN": [
         "pantos"
@@ -3827,33 +3827,36 @@
     "TIOX": [
         "trade-token-x"
     ],
+    "CEEK": [
+        "ceek-vr"
+    ],
     "DEFI++": [
         "piedao-defi"
+    ],
+    "IOC": [
+        "iocoin"
     ],
     "XLA": [
         "scala",
         "ripple-alpha"
     ],
-    "CLOAK": [
-        "cloakcoin"
-    ],
     "TRY": [
         "trias"
-    ],
-    "KICK": [
-        "kick-token"
-    ],
-    "AFIN": [
-        "asian-fintech"
     ],
     "XSM": [
         "spectrumcash"
     ],
+    "AFIN": [
+        "asian-fintech"
+    ],
+    "KICK": [
+        "kick-token"
+    ],
     "FJC": [
         "fujicoin"
     ],
-    "BTO": [
-        "bottos"
+    "SUMO": [
+        "sumokoin"
     ],
     "JCT": [
         "japan-content-token"
@@ -3861,67 +3864,76 @@
     "PIRL": [
         "pirl"
     ],
-    "IOC": [
-        "iocoin"
+    "MER": [
+        "mercury"
+    ],
+    "MUE": [
+        "monetaryunit"
     ],
     "CNB": [
         "coinsbit-token"
     ],
-    "SUMO": [
-        "sumokoin"
-    ],
     "LOOT": [
         "nftlootbox"
-    ],
-    "CPT": [
-        "cryptaur"
     ],
     "BEPRO": [
         "bepro-network"
     ],
-    "OLXA": [
-        "olxa"
+    "SFX": [
+        "safex-cash"
     ],
-    "CNN": [
-        "content-neutrality-network"
+    "CPT": [
+        "cryptaur"
+    ],
+    "CLOAK": [
+        "cloakcoin"
     ],
     "MNC": [
         "moneynet",
         "maincoin"
     ],
+    "OLXA": [
+        "olxa"
+    ],
     "ZPR": [
         "zper"
     ],
-    "SFX": [
-        "safex-cash"
-    ],
-    "MTV": [
-        "multivac"
-    ],
     "UPI": [
         "pawtocol"
+    ],
+    "CNN": [
+        "content-neutrality-network"
+    ],
+    "ATN": [
+        "atn"
     ],
     "DFS": [
         "defis-network",
         "fantasy-sports"
     ],
+    "INXT": [
+        "internxt"
+    ],
+    "MTV": [
+        "multivac"
+    ],
     "FYD": [
         "fydcoin"
-    ],
-    "ATN": [
-        "atn"
-    ],
-    "HMQ": [
-        "humaniq"
-    ],
-    "XXA": [
-        "ixinium"
     ],
     "ALY": [
         "ally"
     ],
-    "INXT": [
-        "internxt"
+    "XXA": [
+        "ixinium"
+    ],
+    "HMQ": [
+        "humaniq"
+    ],
+    "BTO": [
+        "bottos"
+    ],
+    "FIN": [
+        "definer"
     ],
     "MCASH": [
         "mcashchain"
@@ -3932,29 +3944,23 @@
     "ALIAS": [
         "alias"
     ],
-    "FIN": [
-        "definer"
-    ],
     "CANN": [
         "cannabiscoin"
-    ],
-    "QCH": [
-        "qchi"
     ],
     "PEG": [
         "pegnet"
     ],
-    "ZER": [
-        "zero"
+    "QCH": [
+        "qchi"
     ],
     "OPCT": [
         "opacity"
     ],
-    "MUE": [
-        "monetaryunit"
-    ],
     "ROCK2": [
         "ice-rock-mining"
+    ],
+    "ZER": [
+        "zero"
     ],
     "KIT": [
         "dexkit"
@@ -3965,28 +3971,25 @@
     "BTCP": [
         "bitcoin-private"
     ],
-    "PHT": [
-        "lightstreams",
-        "phoneum"
+    "VEIL": [
+        "veil"
     ],
     "CREA": [
         "crea"
     ],
-    "PLT": [
-        "add-xyz"
-    ],
-    "VEIL": [
-        "veil"
-    ],
     "ATMOS": [
         "atmos"
     ],
-    "CHX": [
-        "we-own"
+    "PHT": [
+        "lightstreams",
+        "phoneum"
     ],
     "ETHV": [
         "ethverse",
         "ethereum-vault"
+    ],
+    "CHX": [
+        "we-own"
     ],
     "CLR": [
         "color-platform"
@@ -3996,13 +3999,6 @@
     ],
     "FNT": [
         "falcon-project"
-    ],
-    "TPAY": [
-        "tokenpay"
-    ],
-    "MARS": [
-        "marscoin",
-        "mars-network"
     ],
     "EVED": [
         "evedo"
@@ -4019,42 +4015,42 @@
     "DAPS": [
         "daps-coin"
     ],
-    "MER": [
-        "mercury"
-    ],
     "COVAL": [
         "circuits-of-value"
     ],
-    "EDN": [
-        "eden"
-    ],
-    "IXC": [
-        "ixcoin"
-    ],
-    "XPC": [
-        "experience-chain"
-    ],
-    "EBC": [
-        "ebcoin"
-    ],
-    "LUNES": [
-        "lunes"
-    ],
-    "MPG": [
-        "max-property-group"
-    ],
-    "BOOST": [
-        "boosted-finance"
-    ],
-    "XBC": [
-        "bitcoin-plus"
+    "TPAY": [
+        "tokenpay"
     ],
     "BC": [
         "bitcoin-confidential",
         "block-chain-com"
     ],
+    "IXC": [
+        "ixcoin"
+    ],
+    "EDN": [
+        "eden"
+    ],
+    "XPC": [
+        "experience-chain"
+    ],
+    "BOOST": [
+        "boosted-finance"
+    ],
+    "EBC": [
+        "ebcoin"
+    ],
+    "XBC": [
+        "bitcoin-plus"
+    ],
+    "MPG": [
+        "max-property-group"
+    ],
     "ETHYS": [
         "ethereum-stake"
+    ],
+    "CHAT": [
+        "chatcoin"
     ],
     "SUPER": [
         "supercoin"
@@ -4062,20 +4058,17 @@
     "VLD": [
         "vetri"
     ],
-    "ORMEUS": [
-        "ormeus-coin"
-    ],
     "HAVY": [
         "havy"
     ],
-    "CHAT": [
-        "chatcoin"
-    ],
-    "VIDYA": [
-        "vidya"
+    "ORMEUS": [
+        "ormeus-coin"
     ],
     "ETHY": [
         "ethereum-yield"
+    ],
+    "VIDYA": [
+        "vidya"
     ],
     "KP4R": [
         "keep4r"
@@ -4089,11 +4082,11 @@
     "TFL": [
         "trueflip"
     ],
-    "SMLY": [
-        "smileycoin"
-    ],
     "PVT": [
         "pivot-token"
+    ],
+    "SMLY": [
+        "smileycoin"
     ],
     "AXIS": [
         "axis-defi"
@@ -4104,35 +4097,29 @@
     "HBX": [
         "hashsbx"
     ],
-    "KFX": [
-        "knoxfs-new"
-    ],
     "ASK": [
         "permission-coin"
+    ],
+    "KFX": [
+        "knoxfs-new"
     ],
     "AIDOC": [
         "aidoc"
     ],
-    "MGO": [
-        "mobilego"
-    ],
     "MINT": [
         "mintcoin"
-    ],
-    "PAT": [
-        "patron"
     ],
     "EOSDAC": [
         "eosdac"
     ],
+    "ZXC": [
+        "0xcert"
+    ],
     "HMC": [
         "hi-mutual-society"
     ],
-    "SLP": [
-        "small-love-potion"
-    ],
-    "ZXC": [
-        "0xcert"
+    "PAT": [
+        "patron"
     ],
     "QARK": [
         "qanplatform"
@@ -4141,12 +4128,18 @@
         "neurotoken",
         "netkoin"
     ],
+    "SLP": [
+        "small-love-potion"
+    ],
     "FTI": [
         "fanstime"
     ],
     "BCA": [
         "bitcoin-atom",
         "bitcoiva"
+    ],
+    "MGO": [
+        "mobilego"
     ],
     "SHX": [
         "stronghold-token"
@@ -4163,8 +4156,8 @@
     "KICKS": [
         "sessia"
     ],
-    "LOG": [
-        "woodcoin"
+    "FOUR": [
+        "4thpillar-technologies"
     ],
     "IOG": [
         "playgroundz"
@@ -4172,11 +4165,22 @@
     "BITX": [
         "bitscreener-token"
     ],
+    "JGN": [
+        "juggernaut"
+    ],
     "LIBERTAS": [
         "libertas-token"
     ],
-    "JGN": [
-        "juggernaut"
+    "LOG": [
+        "woodcoin"
+    ],
+    "CRP": [
+        "utopia",
+        "cross-finance"
+    ],
+    "XPT": [
+        "cryptobuyer",
+        "xptoken-io"
     ],
     "GOLD": [
         "digital-gold",
@@ -4187,20 +4191,24 @@
         "okschain",
         "oikos"
     ],
+    "LUNES": [
+        "lunes"
+    ],
     "RISE": [
         "rise"
     ],
     "WCO": [
         "winco"
     ],
+    "PTOY": [
+        "patientory"
+    ],
     "OIN": [
         "oin-finance"
     ],
-    "FOUR": [
-        "4thpillar-technologies"
-    ],
-    "PTOY": [
-        "patientory"
+    "MARS": [
+        "marscoin",
+        "mars-network"
     ],
     "BXC": [
         "bonuscloud",
@@ -4213,10 +4221,6 @@
     "STBZ": [
         "stabilize"
     ],
-    "CRP": [
-        "utopia",
-        "cross-finance"
-    ],
     "XNS": [
         "insolar",
         "xeonbit-token"
@@ -4224,15 +4228,11 @@
     "ACED": [
         "aced"
     ],
-    "BLUE": [
-        "ethereum-blue"
+    "SSP": [
+        "smartshare"
     ],
     "SHARD": [
         "shard"
-    ],
-    "XPT": [
-        "cryptobuyer",
-        "xptoken-io"
     ],
     "PLAY": [
         "herocoin",
@@ -4244,11 +4244,11 @@
     "FDZ": [
         "friends"
     ],
-    "BNF": [
-        "bonfi"
-    ],
     "vBCH": [
         "venus-bch"
+    ],
+    "BNF": [
+        "bonfi"
     ],
     "HEAT": [
         "heat-ledger"
@@ -4259,60 +4259,57 @@
     "1UP": [
         "uptrennd"
     ],
-    "PST": [
-        "primas"
-    ],
     "XAMP": [
         "antiample"
+    ],
+    "PST": [
+        "primas"
     ],
     "PAK": [
         "pakcoin"
     ],
+    "ZCR": [
+        "zcore"
+    ],
     "SEND": [
         "social-send"
     ],
-    "ZCR": [
-        "zcore"
+    "BLUE": [
+        "ethereum-blue"
     ],
     "MTN": [
         "medical-chain"
     ],
-    "BLTG": [
-        "block-logic"
-    ],
     "HNST": [
         "honest"
     ],
-    "YEED": [
-        "yeed"
+    "LQD": [
+        "liquidity-network"
+    ],
+    "ASKO": [
+        "askobar-network"
     ],
     "POP": [
         "popularcoin",
         "pop-network-token"
     ],
-    "TRST": [
-        "trust"
-    ],
-    "ASKO": [
-        "askobar-network"
-    ],
     "FRC": [
         "freicoin"
     ],
+    "TRST": [
+        "trust"
+    ],
+    "YEED": [
+        "yeed"
+    ],
     "BUZZ": [
         "buzzcoin"
-    ],
-    "LQD": [
-        "liquidity-network"
     ],
     "BITTO": [
         "bitto"
     ],
     "MTRG": [
         "meter-governance"
-    ],
-    "SSP": [
-        "smartshare"
     ],
     "AUX": [
         "auxilium",
@@ -4347,14 +4344,17 @@
     "PPY": [
         "peerplays-ppy"
     ],
-    "XPD": [
-        "petrodollar"
-    ],
     "WIKEN": [
         "project-with"
     ],
-    "BANCA": [
-        "banca"
+    "PGN": [
+        "pigeoncoin"
+    ],
+    "XPD": [
+        "petrodollar"
+    ],
+    "BLTG": [
+        "block-logic"
     ],
     "GOT": [
         "parkingo",
@@ -4386,11 +4386,14 @@
         "boscoin",
         "boscore"
     ],
-    "AZ": [
-        "azbit"
+    "ARCO": [
+        "aquariuscoin"
     ],
     "CUR": [
         "curio"
+    ],
+    "AZ": [
+        "azbit"
     ],
     "XIOT": [
         "xiotri"
@@ -4404,23 +4407,20 @@
     "KRB": [
         "karbo"
     ],
+    "ARTE": [
+        "ethart"
+    ],
     "RMPL": [
         "rmpl"
     ],
     "DAT": [
         "datum"
     ],
-    "ARTE": [
-        "ethart"
-    ],
     "IHT": [
         "iht-real-estate-protocol"
     ],
     "XLAB": [
         "xceltoken-plus"
-    ],
-    "ARCO": [
-        "aquariuscoin"
     ],
     "BOMB": [
         "bomb"
@@ -4438,14 +4438,14 @@
     "STS": [
         "sbank"
     ],
-    "PGN": [
-        "pigeoncoin"
-    ],
     "DBIX": [
         "dubaicoin-dbix"
     ],
     "TROLL": [
         "trollcoin"
+    ],
+    "ACAT": [
+        "alphacat"
     ],
     "DTH": [
         "dether"
@@ -4453,32 +4453,41 @@
     "BTCZ": [
         "bitcoinz"
     ],
+    "XNK": [
+        "ink-protocol"
+    ],
     "THUGS": [
         "thugs-fi"
-    ],
-    "HGT": [
-        "hellogold"
     ],
     "UPX": [
         "uplexa"
     ],
+    "HGT": [
+        "hellogold"
+    ],
     "SHDW": [
         "shadow-token"
-    ],
-    "CCN": [
-        "customcontractnetwork"
     ],
     "BNTY": [
         "bounty0x"
     ],
+    "CCN": [
+        "customcontractnetwork"
+    ],
     "NOR": [
         "noir"
+    ],
+    "SIB": [
+        "sibcoin"
     ],
     "MRK": [
         "mark-space"
     ],
-    "XNK": [
-        "ink-protocol"
+    "LANA": [
+        "lanacoin"
+    ],
+    "TIX": [
+        "blocktix"
     ],
     "DCT": [
         "decent"
@@ -4486,20 +4495,11 @@
     "THRT": [
         "thrive-token"
     ],
-    "TIX": [
-        "blocktix"
-    ],
-    "TNS": [
-        "transcodium"
-    ],
-    "LANA": [
-        "lanacoin"
+    "VIG": [
+        "vig"
     ],
     "CAPP": [
         "cappasity"
-    ],
-    "VIG": [
-        "vig"
     ],
     "RET": [
         "realtract"
@@ -4507,41 +4507,41 @@
     "KCAL": [
         "phantasma-energy"
     ],
-    "ACAT": [
-        "alphacat"
+    "BANCA": [
+        "banca"
     ],
     "MTX": [
         "matryx"
     ],
-    "GMAT": [
-        "gowithmi"
-    ],
     "VGW": [
         "vegawallet-token"
+    ],
+    "GMAT": [
+        "gowithmi"
     ],
     "TN": [
         "turtlenetwork"
     ],
-    "GPYX": [
-        "goldenpyrex"
-    ],
     "EKO": [
         "echolink"
+    ],
+    "GLS": [
+        "golos-blockchain"
     ],
     "MCT": [
         "master-contract-token"
     ],
+    "GPYX": [
+        "goldenpyrex"
+    ],
     "EXCL": [
         "exclusivecoin"
-    ],
-    "SIB": [
-        "sibcoin"
     ],
     "BWT": [
         "bittwatt"
     ],
-    "GLS": [
-        "golos-blockchain"
+    "TNS": [
+        "transcodium"
     ],
     "GMC": [
         "gokumarket-credit"
@@ -4556,14 +4556,14 @@
         "ongsocial",
         "ontology-gas"
     ],
-    "ORB": [
-        "orbitcoin"
+    "LYNC": [
+        "lync-network"
     ],
     "USDS": [
         "stableusd"
     ],
-    "LYNC": [
-        "lync-network"
+    "ORB": [
+        "orbitcoin"
     ],
     "MINTME": [
         "mintme-com-coin"
@@ -4598,20 +4598,20 @@
     "XLR": [
         "solaris"
     ],
-    "GZRO": [
-        "gravity"
+    "NCC": [
+        "neurochain"
     ],
     "DEB": [
         "debitum-network"
     ],
+    "GZRO": [
+        "gravity"
+    ],
     "TRC": [
         "terracoin"
     ],
-    "NCC": [
-        "neurochain"
-    ],
-    "DEXA": [
-        "dexa-coin"
+    "SS": [
+        "sharder"
     ],
     "COVA": [
         "cova"
@@ -4622,14 +4622,23 @@
     "TZC": [
         "trezarcoin"
     ],
+    "DEXA": [
+        "dexa-coin"
+    ],
+    "CORX": [
+        "corionx"
+    ],
     "HQX": [
         "hoqu"
     ],
     "TCORE": [
         "tornado"
     ],
-    "CORX": [
-        "corionx"
+    "AID": [
+        "aidcoin"
+    ],
+    "DOGEC": [
+        "dogecash"
     ],
     "CDL": [
         "coindeal-token"
@@ -4637,23 +4646,17 @@
     "VIKKY": [
         "vikkytoken"
     ],
+    "BTN": [
+        "bitnewchain"
+    ],
     "NPC": [
         "npcoin"
     ],
     "PEOS": [
         "peos"
     ],
-    "BTN": [
-        "bitnewchain"
-    ],
     "DAM": [
         "datamine"
-    ],
-    "RTE": [
-        "rate3"
-    ],
-    "AID": [
-        "aidcoin"
     ],
     "BBK": [
         "bitblocks"
@@ -4661,17 +4664,17 @@
     "GRLC": [
         "garlicoin"
     ],
-    "VIP": [
-        "limitless-vip"
-    ],
-    "DOGEC": [
-        "dogecash"
-    ],
     "A": [
         "alpha-token"
     ],
     "ECA": [
         "electra"
+    ],
+    "VIP": [
+        "limitless-vip"
+    ],
+    "RTE": [
+        "rate3"
     ],
     "HX": [
         "hyperexchange"
@@ -4684,9 +4687,6 @@
     ],
     "N0031": [
         "nyfi"
-    ],
-    "ZUC": [
-        "zeuxcoin"
     ],
     "POSS": [
         "posscoin"
@@ -4712,9 +4712,6 @@
     "PBT": [
         "primalbase"
     ],
-    "BEER": [
-        "beer-money"
-    ],
     "XDNA": [
         "extradna",
         "xdna"
@@ -4722,11 +4719,8 @@
     "CL": [
         "coinlancer"
     ],
-    "SS": [
-        "sharder"
-    ],
-    "YAP": [
-        "yap-stone"
+    "ZUC": [
+        "zeuxcoin"
     ],
     "VDX": [
         "vodi-x"
@@ -4735,15 +4729,18 @@
         "uptoken",
         "unifi-protocol"
     ],
-    "SXUT": [
-        "spectre-utility"
-    ],
     "CTT": [
         "castweet",
         "citex-token"
     ],
+    "SXUT": [
+        "spectre-utility"
+    ],
     "MEXC": [
         "mexc-token"
+    ],
+    "YAP": [
+        "yap-stone"
     ],
     "FUEL": [
         "etherparty"
@@ -4753,24 +4750,30 @@
         "bigbang-core",
         "blue-baikal"
     ],
+    "BEER": [
+        "beer-money"
+    ],
     "SVR": [
         "sovranocoin"
+    ],
+    "X8X": [
+        "x8x-token"
     ],
     "MVC": [
         "maverick-chain",
         "mileverse"
     ],
-    "X8X": [
-        "x8x-token"
-    ],
     "MERI": [
         "merebel"
+    ],
+    "CCX": [
+        "conceal"
     ],
     "SHIP": [
         "shipchain"
     ],
-    "CCX": [
-        "conceal"
+    "INK": [
+        "ink"
     ],
     "DOPE": [
         "dopecoin"
@@ -4782,14 +4785,11 @@
     "DAV": [
         "dav-coin"
     ],
-    "WCC": [
-        "wincash"
+    "BOB": [
+        "bobs-repair"
     ],
     "POE": [
         "poet"
-    ],
-    "ZENI": [
-        "zennies"
     ],
     "TCH": [
         "tigercash",
@@ -4797,45 +4797,45 @@
         "thecash",
         "tchain"
     ],
+    "ZENI": [
+        "zennies"
+    ],
     "FTX": [
         "fintrux-network"
-    ],
-    "ELEC": [
-        "electrifyasia"
-    ],
-    "BEET": [
-        "beetle-coin"
     ],
     "PIZZA": [
         "pizza"
     ],
-    "CRDT": [
-        "crdt"
+    "BEET": [
+        "beetle-coin"
     ],
     "SPHTX": [
         "sophiatx"
+    ],
+    "ELEC": [
+        "electrifyasia"
+    ],
+    "CRDT": [
+        "crdt"
+    ],
+    "BQQQ": [
+        "bitsdaq"
     ],
     "CHESS": [
         "chesscoin",
         "chess-coin"
     ],
-    "BQQQ": [
-        "bitsdaq"
-    ],
     "LML": [
         "lisk-machine-learning"
-    ],
-    "MIB": [
-        "mib-coin"
     ],
     "TOC": [
         "touchcon"
     ],
-    "INK": [
-        "ink"
+    "WCC": [
+        "wincash"
     ],
-    "PYLNT": [
-        "pylon-network"
+    "MIB": [
+        "mib-coin"
     ],
     "JAR": [
         "jarvis"
@@ -4843,8 +4843,11 @@
     "XNB": [
         "xeonbit"
     ],
-    "ESS": [
-        "essentia"
+    "PYLNT": [
+        "pylon-network"
+    ],
+    "OCT": [
+        "oraclechain"
     ],
     "FLIXX": [
         "flixxo"
@@ -4855,14 +4858,14 @@
     "SKB": [
         "sakura-bloom"
     ],
-    "OCT": [
-        "oraclechain"
-    ],
-    "X42": [
-        "x42-protocol"
+    "ESS": [
+        "essentia"
     ],
     "STAR": [
         "starbase"
+    ],
+    "DPY": [
+        "delphy"
     ],
     "BON": [
         "bonpay"
@@ -4873,8 +4876,8 @@
     "IG": [
         "igtoken"
     ],
-    "DML": [
-        "decentralized-machine-learning"
+    "FKX": [
+        "fortknoxster"
     ],
     "MEETONE": [
         "meetone"
@@ -4888,29 +4891,29 @@
     "ASAFE": [
         "allsafe"
     ],
+    "DML": [
+        "decentralized-machine-learning"
+    ],
     "UBN": [
         "ubricoin"
     ],
     "SWIFT": [
         "swiftcash"
     ],
-    "IXT": [
-        "ixledger"
-    ],
     "PUX": [
         "polypux"
     ],
-    "ALT": [
-        "alt-estate-token"
+    "IXT": [
+        "ixledger"
     ],
     "CBIX": [
         "cubiex"
     ],
+    "ALT": [
+        "alt-estate-token"
+    ],
     "KUV": [
         "kuverit"
-    ],
-    "ABX": [
-        "arbidex"
     ],
     "IND": [
         "indorse-token"
@@ -4918,11 +4921,11 @@
     "KUE": [
         "kuende"
     ],
-    "EGEM": [
-        "ethergem"
+    "ABX": [
+        "arbidex"
     ],
-    "RATING": [
-        "dprating"
+    "TBX": [
+        "tokenbox"
     ],
     "ZIPT": [
         "zippie"
@@ -4930,23 +4933,26 @@
     "PUB": [
         "publyto-token"
     ],
+    "RATING": [
+        "dprating"
+    ],
     "FACE": [
         "faceter"
+    ],
+    "X42": [
+        "x42-protocol"
     ],
     "XBP": [
         "blitzpredict"
     ],
+    "EGEM": [
+        "ethergem"
+    ],
     "LTHN": [
         "lethean"
     ],
-    "TBX": [
-        "tokenbox"
-    ],
     "ONL": [
         "on-live"
-    ],
-    "FLOT": [
-        "fire-lotto"
     ],
     "BDG": [
         "bitdegree"
@@ -4973,11 +4979,11 @@
         "eventchain",
         "eco-value-coin"
     ],
-    "HSC": [
-        "hashcoin"
-    ],
     "ARAW": [
         "araw"
+    ],
+    "HSC": [
+        "hashcoin"
     ],
     "RYO": [
         "ryo-currency"
@@ -4985,14 +4991,14 @@
     "BEZ": [
         "bezop"
     ],
-    "NEXT": [
-        "next-coin"
-    ],
     "DIT": [
         "digital-insurance-token"
     ],
     "OOT": [
         "utrum"
+    ],
+    "XSTAR": [
+        "stardex"
     ],
     "MAS": [
         "midasprotocol"
@@ -5003,12 +5009,6 @@
     "MAX": [
         "maxcoin",
         "max-exchange-token"
-    ],
-    "DPY": [
-        "delphy"
-    ],
-    "XSTAR": [
-        "stardex"
     ],
     "DEEX": [
         "deex"
@@ -5026,30 +5026,20 @@
     "ETG": [
         "ethereum-gold"
     ],
+    "NEXT": [
+        "next-coin"
+    ],
     "LUN": [
         "lunyr"
     ],
-    "yTSLA": [
-        "ytsla-finance"
-    ],
     "MSR": [
         "masari"
-    ],
-    "FKX": [
-        "fortknoxster"
     ],
     "TKP": [
         "tokpie"
     ],
     "XCN": [
         "cryptonite"
-    ],
-    "BOB": [
-        "bobs-repair"
-    ],
-    "CPX": [
-        "apex",
-        "crypxie"
     ],
     "LHT": [
         "lighthouse-token"
@@ -5066,8 +5056,9 @@
     "WFX": [
         "webflix-token"
     ],
-    "IMG": [
-        "imagecoin"
+    "CPX": [
+        "apex",
+        "crypxie"
     ],
     "MNTP": [
         "goldmint"
@@ -5081,14 +5072,20 @@
     "FERA": [
         "fera"
     ],
+    "FLOT": [
+        "fire-lotto"
+    ],
+    "IMG": [
+        "imagecoin"
+    ],
     "HUSH": [
         "hush"
     ],
-    "AMA": [
-        "amaten"
-    ],
     "NAT": [
         "natmin-pure-escrow"
+    ],
+    "AMA": [
+        "amaten"
     ],
     "AXE": [
         "axe"
@@ -5098,6 +5095,9 @@
     ],
     "PYRK": [
         "pyrk"
+    ],
+    "yTSLA": [
+        "ytsla-finance"
     ],
     "SDS": [
         "alchemint-standards"
@@ -5111,23 +5111,20 @@
     "METM": [
         "metamorph"
     ],
-    "NSD": [
-        "nasdacoin"
-    ],
     "CHND": [
         "cashhand"
     ],
     "KOBO": [
         "kobocoin"
     ],
-    "SCL": [
-        "sociall"
-    ],
     "CYFM": [
         "cyberfm"
     ],
     "ERT": [
         "eristica"
+    ],
+    "SCL": [
+        "sociall"
     ],
     "XNV": [
         "nerva"
@@ -5144,6 +5141,9 @@
     "PTON": [
         "pton"
     ],
+    "NSD": [
+        "nasdacoin"
+    ],
     "DXT": [
         "datawallet"
     ],
@@ -5153,18 +5153,21 @@
     "XPAT": [
         "bitnation"
     ],
+    "TRUST": [
+        "trustdao"
+    ],
     "COFI": [
         "coinfi",
         "cofix"
-    ],
-    "TRUST": [
-        "trustdao"
     ],
     "BLU": [
         "bluecoin"
     ],
     "FBN": [
         "fivebalance"
+    ],
+    "BOUTS": [
+        "boutspro"
     ],
     "FLUX": [
         "flux"
@@ -5175,12 +5178,15 @@
     "MYB": [
         "mybit"
     ],
-    "SINS": [
-        "safeinsure"
-    ],
     "BHC": [
         "billionhappiness",
         "bhex-token"
+    ],
+    "AG8": [
+        "atromg8"
+    ],
+    "SINS": [
+        "safeinsure"
     ],
     "XSH": [
         "shield-xsh"
@@ -5188,23 +5194,17 @@
     "DBET": [
         "decent-bet"
     ],
-    "AG8": [
-        "atromg8"
-    ],
     "SWING": [
         "swing"
     ],
     "QBT": [
         "qbao"
     ],
-    "S": [
-        "sharpay"
-    ],
-    "BOUTS": [
-        "boutspro"
-    ],
     "ESH": [
         "switch"
+    ],
+    "S": [
+        "sharpay"
     ],
     "PUT": [
         "profile-utility-token",
@@ -5222,8 +5222,8 @@
     "BDK": [
         "bidesk"
     ],
-    "MODX": [
-        "model-x-coin"
+    "REB2": [
+        "rebased"
     ],
     "2GIVE": [
         "2give"
@@ -5231,9 +5231,6 @@
     "KEK": [
         "kekcoin",
         "cryptokek"
-    ],
-    "REB2": [
-        "rebased"
     ],
     "MOTA": [
         "motacoin"
@@ -5247,6 +5244,9 @@
     "GEM": [
         "gems-protocol"
     ],
+    "XWP": [
+        "swap"
+    ],
     "BBP": [
         "biblepay",
         "bitbot-protocol"
@@ -5254,42 +5254,38 @@
     "CROAT": [
         "croat"
     ],
-    "MAC": [
-        "matrexcoin"
-    ],
     "TENA": [
         "tena"
+    ],
+    "MAC": [
+        "matrexcoin"
     ],
     "JUP": [
         "jupiter"
     ],
-    "CREDIT": [
-        "credit",
-        "proxi"
-    ],
-    "XWP": [
-        "swap"
+    "BITC": [
+        "bitcash"
     ],
     "AC3": [
         "ac3"
     ],
-    "MOR": [
-        "morcrypto-coin"
-    ],
     "PTC": [
         "pesetacoin"
-    ],
-    "ACM": [
-        "actinium"
     ],
     "ROAD": [
         "road"
     ],
-    "PDATA": [
-        "pdata"
+    "ACM": [
+        "actinium"
+    ],
+    "AMM": [
+        "micromoney"
     ],
     "TDP": [
         "truedeck"
+    ],
+    "PDATA": [
+        "pdata"
     ],
     "BZE": [
         "bzedge"
@@ -5297,20 +5293,27 @@
     "ROT": [
         "rotten"
     ],
-    "ION": [
-        "ion"
+    "CREDIT": [
+        "credit",
+        "proxi"
     ],
     "EBST": [
         "eboostcoin"
     ],
+    "ION": [
+        "ion"
+    ],
+    "MODX": [
+        "model-x-coin"
+    ],
     "AAB": [
         "aax-token"
     ],
-    "BITC": [
-        "bitcash"
-    ],
     "OPTI": [
         "optitoken"
+    ],
+    "SCR": [
+        "scorum-coins"
     ],
     "ESCE": [
         "escroco-emerald"
@@ -5324,18 +5327,11 @@
     "TSD": [
         "true-seigniorage-dollar"
     ],
-    "ZPT": [
-        "zeepin"
-    ],
     "ARTIS": [
         "artis-turba"
     ],
-    "SCR": [
-        "scorum-coins"
-    ],
-    "GBX": [
-        "gobyte",
-        "gbrick"
+    "ZPT": [
+        "zeepin"
     ],
     "IUT": [
         "ito-utility-token"
@@ -5351,6 +5347,13 @@
     ],
     "HWC": [
         "hollywoodcoin"
+    ],
+    "GBX": [
+        "gobyte",
+        "gbrick"
+    ],
+    "MOR": [
+        "morcrypto-coin"
     ],
     "GRFT": [
         "graft"
@@ -5384,14 +5387,8 @@
         "parallelcoin",
         "duo-network-token"
     ],
-    "EXMR": [
-        "exmr-fdn"
-    ],
     "PYRO": [
         "pyro-network"
-    ],
-    "EVE": [
-        "devery"
     ],
     "MCC": [
         "mining-core",
@@ -5399,11 +5396,17 @@
         "magic-cube-coin",
         "moving-cloud-coin"
     ],
+    "EVE": [
+        "devery"
+    ],
     "CGEN": [
         "communitygeneration"
     ],
     "FGC": [
         "fantasygold"
+    ],
+    "TCASH": [
+        "tcash"
     ],
     "SHAKE": [
         "shake"
@@ -5433,9 +5436,6 @@
     "CJ": [
         "cryptojacks"
     ],
-    "TCASH": [
-        "tcash"
-    ],
     "CVCC": [
         "cryptoverificationcoin"
     ],
@@ -5445,29 +5445,26 @@
     "VSL": [
         "vslice"
     ],
-    "AMM": [
-        "micromoney"
-    ],
     "BBS": [
         "bbscoin"
     ],
     "BTDX": [
         "bitcloud"
     ],
-    "SWT": [
-        "swarm-city"
+    "IPL": [
+        "insurepal"
     ],
     "DONU": [
         "donu"
     ],
-    "IPL": [
-        "insurepal"
+    "ALI": [
+        "ailink-token"
+    ],
+    "SWT": [
+        "swarm-city"
     ],
     "BOLI": [
         "bolivarcoin"
-    ],
-    "ALI": [
-        "ailink-token"
     ],
     "ISLA": [
         "insula"
@@ -5478,20 +5475,23 @@
     "ABST": [
         "abitshadow-token"
     ],
-    "ERO": [
-        "eroscoin"
-    ],
     "BGTT": [
         "baguette-token"
     ],
-    "ETI": [
-        "etherinc"
+    "ERO": [
+        "eroscoin"
     ],
     "BDP": [
         "bidipass"
     ],
+    "ETI": [
+        "etherinc"
+    ],
     "WGP": [
         "w-green-pay"
+    ],
+    "EXMR": [
+        "exmr-fdn"
     ],
     "MES": [
         "meschain"
@@ -5499,34 +5499,38 @@
     "FMTA": [
         "fundamenta"
     ],
-    "WRC": [
-        "worldcore",
-        "whiterockcasino"
-    ],
     "BTCT": [
         "bitcoin-token",
         "bitcoin-true"
     ],
+    "WRC": [
+        "worldcore",
+        "whiterockcasino"
+    ],
     "BGL": [
         "bitgesell"
     ],
-    "OSA": [
-        "osa-token"
-    ],
-    "PIPL": [
-        "piplcoin"
+    "BLUR": [
+        "blur"
     ],
     "IDT": [
         "investdigital"
     ],
-    "BLUR": [
-        "blur"
+    "PIPL": [
+        "piplcoin"
+    ],
+    "CEN": [
+        "coinsuper-ecosystem-network",
+        "centaure"
     ],
     "PEPS": [
         "peps-coin"
     ],
     "MOTO": [
         "motocoin"
+    ],
+    "CNS": [
+        "centric-cash"
     ],
     "TRUMP": [
         "trumpcoin"
@@ -5536,13 +5540,6 @@
     ],
     "ARNX": [
         "aeron"
-    ],
-    "CEN": [
-        "coinsuper-ecosystem-network",
-        "centaure"
-    ],
-    "CNS": [
-        "centric-cash"
     ],
     "REX": [
         "imbrex"
@@ -5563,17 +5560,14 @@
     "CNRG": [
         "cryptoenergy"
     ],
-    "EQL": [
-        "equal"
-    ],
     "OPAL": [
         "opal"
     ],
-    "GIC": [
-        "giant-coin"
-    ],
     "START": [
         "startcoin"
+    ],
+    "GIC": [
+        "giant-coin"
     ],
     "MALW": [
         "malwarechain"
@@ -5607,11 +5601,11 @@
     "DGC": [
         "digitalcoin"
     ],
+    "ZET": [
+        "zetacoin"
+    ],
     "PHO": [
         "photon"
-    ],
-    "MFC": [
-        "mfcoin"
     ],
     "WAND": [
         "wandx"
@@ -5622,8 +5616,8 @@
     "PTT": [
         "proton-token"
     ],
-    "ELY": [
-        "elysian"
+    "EQL": [
+        "equal"
     ],
     "BRO": [
         "bitradio"
@@ -5631,11 +5625,11 @@
     "MMO": [
         "mmocoin"
     ],
-    "ZET": [
-        "zetacoin"
+    "ELY": [
+        "elysian"
     ],
-    "DOGEFI": [
-        "dogefi"
+    "MFC": [
+        "mfcoin"
     ],
     "XGM": [
         "defis"
@@ -5649,32 +5643,38 @@
     "HB": [
         "heartbout"
     ],
-    "LCP": [
-        "litecoin-plus"
+    "DOGEFI": [
+        "dogefi"
     ],
     "SEM": [
         "semux"
     ],
+    "LCP": [
+        "litecoin-plus"
+    ],
     "HORUS": [
         "horuspay"
-    ],
-    "NMP": [
-        "neuromorphic-io"
     ],
     "NRVE": [
         "narrative"
     ],
+    "NMP": [
+        "neuromorphic-io"
+    ],
     "BTCL": [
         "btc-lite"
+    ],
+    "XBI": [
+        "bitcoin-incognito"
+    ],
+    "TGAME": [
+        "tgame"
     ],
     "ENT": [
         "eternity"
     ],
     "GXX": [
         "gravitycoin"
-    ],
-    "TGAME": [
-        "tgame"
     ],
     "NTR": [
         "netrum"
@@ -5689,33 +5689,33 @@
     "DAY": [
         "chronologic"
     ],
+    "OSA": [
+        "osa-token"
+    ],
     "ITL": [
         "italian-lira"
     ],
     "ADZ": [
         "adzcoin"
     ],
-    "XBI": [
-        "bitcoin-incognito"
-    ],
     "CMCT": [
         "cyber-movie-chain",
         "crowd-machine"
     ],
-    "WTN": [
-        "waletoken"
-    ],
     "SAL": [
         "salmonswap"
+    ],
+    "WTN": [
+        "waletoken"
     ],
     "ADI": [
         "aditus"
     ],
-    "CHEESE": [
-        "cheesecoin"
-    ],
     "RCT": [
         "realchain"
+    ],
+    "CHEESE": [
+        "cheesecoin"
     ],
     "TAG": [
         "tagcoin"
@@ -5736,14 +5736,14 @@
         "simple-software-solutions",
         "sss-finance"
     ],
+    "GCN": [
+        "gcn-coin"
+    ],
     "SEFA": [
         "mesefa"
     ],
     "EVIL": [
         "evil-coin"
-    ],
-    "RENDOGE": [
-        "rendoge"
     ],
     "YFFII": [
         "yffii-finance"
@@ -5757,6 +5757,9 @@
     "ZNY": [
         "bitzeny"
     ],
+    "RENDOGE": [
+        "rendoge"
+    ],
     "OURO": [
         "ouroboros"
     ],
@@ -5766,26 +5769,29 @@
     "PGO": [
         "pengolincoin"
     ],
-    "GCN": [
-        "gcn-coin"
-    ],
     "YFBT": [
         "yearn-finance-bit"
     ],
     "ELET": [
         "elementeum"
     ],
-    "RUP": [
-        "rupee"
-    ],
     "ETX": [
         "ethereumx"
+    ],
+    "RUP": [
+        "rupee"
     ],
     "HSN": [
         "hyper-speed-network"
     ],
+    "EVN": [
+        "evencoin"
+    ],
     "AIX": [
         "aigang"
+    ],
+    "ZDR": [
+        "zloadr"
     ],
     "ACE": [
         "ace",
@@ -5803,9 +5809,6 @@
     ],
     "IC": [
         "ignition"
-    ],
-    "EVN": [
-        "evencoin"
     ],
     "STEEP": [
         "steepcoin"
@@ -5843,11 +5846,11 @@
     "PRX": [
         "proxynode"
     ],
-    "CNUS": [
-        "coinus"
-    ],
     "DYNMT": [
         "dynamite"
+    ],
+    "CNUS": [
+        "coinus"
     ],
     "PTI": [
         "paytomat"
@@ -5861,17 +5864,14 @@
     "ELTCOIN": [
         "eltcoin"
     ],
-    "ATB": [
-        "atbcoin"
-    ],
     "YFIVE": [
         "yfive-finance"
     ],
+    "ATB": [
+        "atbcoin"
+    ],
     "MORE": [
         "more-coin"
-    ],
-    "WON": [
-        "weblock"
     ],
     "BNC": [
         "bionic"
@@ -5879,26 +5879,32 @@
     "TAN": [
         "taklimakan-network"
     ],
+    "WON": [
+        "weblock"
+    ],
     "ARION": [
         "arion"
-    ],
-    "ARO": [
-        "arionum"
     ],
     "MILK2": [
         "spaceswap"
     ],
+    "ARO": [
+        "arionum"
+    ],
     "ZFL": [
         "zuflo-coin"
+    ],
+    "PNY": [
+        "peony"
     ],
     "MONK": [
         "monkey-project"
     ],
-    "GFUN": [
-        "goldfund"
-    ],
     "VLS": [
         "veles"
+    ],
+    "GFUN": [
+        "goldfund"
     ],
     "HERB": [
         "herbalist-token"
@@ -5909,9 +5915,6 @@
     ],
     "PAYX": [
         "paypex"
-    ],
-    "ZDR": [
-        "zloadr"
     ],
     "EMD": [
         "emerald"
@@ -5931,20 +5934,20 @@
     "KIND": [
         "kind-ads-token"
     ],
-    "CIV": [
-        "civitas"
-    ],
     "BREE": [
         "cbdao"
+    ],
+    "CIV": [
+        "civitas"
     ],
     "BERN": [
         "berncash"
     ],
-    "BLAST": [
-        "blast"
-    ],
     "OBEE": [
         "obee-network"
+    ],
+    "BLAST": [
+        "blast"
     ],
     "FSBT": [
         "fsbt-api-token"
@@ -5958,38 +5961,35 @@
     "INNBC": [
         "innovative-bioresearch-coin"
     ],
+    "ARQ": [
+        "arqma"
+    ],
     "AREPA": [
         "arepacoin"
-    ],
-    "BTRN": [
-        "biotron"
     ],
     "B2G": [
         "bitcoiin"
     ],
+    "BTRN": [
+        "biotron"
+    ],
     "PXG": [
         "playgame"
-    ],
-    "ARQ": [
-        "arqma"
     ],
     "EDRC": [
         "edrcoin"
     ],
-    "VIDZ": [
-        "purevidz"
+    "SPRKL": [
+        "sparkle-loyalty"
     ],
     "DISTX": [
         "distx"
     ],
+    "VIDZ": [
+        "purevidz"
+    ],
     "RBIES": [
         "rubies"
-    ],
-    "SPRKL": [
-        "sparkle-loyalty"
-    ],
-    "PNY": [
-        "peony"
     ],
     "STAK": [
         "straks"
@@ -5997,12 +5997,12 @@
     "GRIMM": [
         "grimm"
     ],
+    "BTCN": [
+        "bitcoinote"
+    ],
     "CPU": [
         "cpuchain",
         "cpucoin"
-    ],
-    "BTCN": [
-        "bitcoinote"
     ],
     "KSEED": [
         "kush-finance"
@@ -6015,6 +6015,9 @@
     ],
     "SHMN": [
         "stronghands-masternode"
+    ],
+    "IRD": [
+        "iridium"
     ],
     "SPK": [
         "sparkspay"
@@ -6037,11 +6040,11 @@
     "ETGP": [
         "ethereum-gold-project"
     ],
-    "GLT": [
-        "globaltoken"
-    ],
     "ECOM": [
         "omnitude"
+    ],
+    "GLT": [
+        "globaltoken"
     ],
     "EVT": [
         "everitoken"
@@ -6052,15 +6055,18 @@
     "MARTK": [
         "martkist"
     ],
-    "XIND": [
-        "indinode"
-    ],
     "BIT": [
         "bitrewards",
         "bitmoney"
     ],
+    "XIND": [
+        "indinode"
+    ],
     "MOJO": [
         "mojocoin"
+    ],
+    "BCAC": [
+        "business-credit-alliance-chain"
     ],
     "BMH": [
         "blockmesh"
@@ -6072,6 +6078,9 @@
     "IMPL": [
         "impleum"
     ],
+    "SFG": [
+        "s-finance"
+    ],
     "ONX": [
         "onix",
         "onx-finance"
@@ -6082,9 +6091,6 @@
     "GCR": [
         "global-currency-reserve",
         "gold-coin-reserve"
-    ],
-    "SFG": [
-        "s-finance"
     ],
     "DMB": [
         "digital-money-bits"
@@ -6098,14 +6104,8 @@
     "ARCT": [
         "arbitragect"
     ],
-    "BCAC": [
-        "business-credit-alliance-chain"
-    ],
     "DTRC": [
         "datarius-credit"
-    ],
-    "IRD": [
-        "iridium"
     ],
     "TREX": [
         "trexcoin"
@@ -6118,6 +6118,9 @@
     ],
     "TM2": [
         "traxia"
+    ],
+    "BDCC": [
+        "bdcc-bitica-coin"
     ],
     "BTAD": [
         "bitcoin-adult"
@@ -6133,14 +6136,14 @@
         "digifinextoken",
         "defiat"
     ],
+    "IMGC": [
+        "imagecash"
+    ],
     "MEDIC": [
         "mediccoin"
     ],
     "CRM": [
         "cream"
-    ],
-    "BDCC": [
-        "bdcc-bitica-coin"
     ],
     "ALLBI": [
         "all-best-ico"
@@ -6151,12 +6154,12 @@
     "WAGE": [
         "digiwage"
     ],
-    "onLEXpa": [
-        "onlexpa"
-    ],
     "KNT": [
         "kora-network-token",
         "knekted"
+    ],
+    "onLEXpa": [
+        "onlexpa"
     ],
     "CLX": [
         "celeum"
@@ -6164,14 +6167,8 @@
     "KLKS": [
         "kalkulus"
     ],
-    "IMGC": [
-        "imagecash"
-    ],
     "UNIFY": [
         "unify"
-    ],
-    "WEB": [
-        "webcoin"
     ],
     "JOINT": [
         "joint-ventures"
@@ -6185,8 +6182,8 @@
     "XAP": [
         "apollon"
     ],
-    "YI12": [
-        "yield-stake-finance"
+    "WEB": [
+        "webcoin"
     ],
     "ZUR": [
         "zurcoin"
@@ -6197,12 +6194,12 @@
     "BLC": [
         "blakecoin"
     ],
+    "XGOX": [
+        "xgox"
+    ],
     "BTCV": [
         "bitcoinv",
         "bitcoin-vault"
-    ],
-    "XGOX": [
-        "xgox"
     ],
     "XCO": [
         "x-coin"
@@ -6213,11 +6210,14 @@
     "SND": [
         "snodecoin"
     ],
-    "ULG": [
-        "ultragate"
+    "YI12": [
+        "yield-stake-finance"
     ],
     "TCAT": [
         "the-currency-analytics"
+    ],
+    "ULG": [
+        "ultragate"
     ],
     "PTE": [
         "peet-defi"
@@ -6243,11 +6243,11 @@
     "ART": [
         "maecenas"
     ],
-    "C2": [
-        "coin2-1"
-    ],
     "STAC": [
         "startercoin"
+    ],
+    "C2": [
+        "coin2-1"
     ],
     "CNT": [
         "centurion",
@@ -6275,12 +6275,12 @@
     "KWH": [
         "kwhcoin"
     ],
+    "HNB": [
+        "hashnet-biteco"
+    ],
     "MXT": [
         "martexcoin",
         "mixtrust"
-    ],
-    "HNB": [
-        "hashnet-biteco"
     ],
     "FEX": [
         "fidex-token",
@@ -6307,6 +6307,9 @@
     "GOSS": [
         "gossipcoin"
     ],
+    "DATP": [
+        "decentralized-asset-trading-platform"
+    ],
     "MAR": [
         "mchain"
     ],
@@ -6330,9 +6333,6 @@
     ],
     "GDR": [
         "guider"
-    ],
-    "DATP": [
-        "decentralized-asset-trading-platform"
     ],
     "SHVR": [
         "shivers"
@@ -6360,13 +6360,13 @@
     "AMS": [
         "amsterdamcoin"
     ],
+    "UCN": [
+        "uchain"
+    ],
     "BSC": [
         "bowscoin",
         "bsc-farm",
         "bitsonic"
-    ],
-    "UCN": [
-        "uchain"
     ],
     "HELP": [
         "gohelpfund",
@@ -6387,11 +6387,11 @@
     "NZL": [
         "zealium"
     ],
-    "ROCO": [
-        "roiyal-coin"
-    ],
     "CALL": [
         "global-crypto-alliance"
+    ],
+    "ROCO": [
+        "roiyal-coin"
     ],
     "QBC": [
         "quebecoin"
@@ -6401,6 +6401,9 @@
     ],
     "ETHP": [
         "ethplus"
+    ],
+    "SPT": [
+        "spectrum"
     ],
     "SPR": [
         "spreadcoin"
@@ -6423,9 +6426,6 @@
     "ORE": [
         "galactrum"
     ],
-    "SPT": [
-        "spectrum"
-    ],
     "QUAN": [
         "quantis-network"
     ],
@@ -6441,20 +6441,20 @@
     "TOTO": [
         "tourist-token"
     ],
-    "GALI": [
-        "galilel"
-    ],
     "GIN": [
         "gincoin"
+    ],
+    "GALI": [
+        "galilel"
     ],
     "VIVID": [
         "vivid-coin"
     ],
-    "STREAM": [
-        "streamit-coin"
-    ],
     "AKA": [
         "akroma"
+    ],
+    "STREAM": [
+        "streamit-coin"
     ],
     "ATH": [
         "atheios"
@@ -6541,14 +6541,14 @@
     "APR": [
         "apr-coin"
     ],
+    "BAZT": [
+        "baz-token"
+    ],
     "KWATT": [
         "4new"
     ],
     "SCS": [
         "speedcash"
-    ],
-    "BAZT": [
-        "baz-token"
     ],
     "XPTX": [
         "platinumbar"
@@ -6576,11 +6576,11 @@
     "CCO": [
         "ccore"
     ],
-    "BOST": [
-        "boostcoin"
-    ],
     "DOW": [
         "dowcoin"
+    ],
+    "BOST": [
+        "boostcoin"
     ],
     "SANDG": [
         "save-and-gain"
@@ -6597,11 +6597,11 @@
     "EBK": [
         "ebakus"
     ],
-    "TVNT": [
-        "travelnote"
-    ],
     "BRIA": [
         "briacoin"
+    ],
+    "TVNT": [
+        "travelnote"
     ],
     "IBS": [
         "ibstoken"
@@ -6645,11 +6645,11 @@
     "LTCU": [
         "litecoin-ultra"
     ],
-    "RAGNA": [
-        "ragnarok"
-    ],
     "NOTE": [
         "dnotes"
+    ],
+    "RAGNA": [
+        "ragnarok"
     ],
     "SOVE": [
         "soverain"
@@ -6802,9 +6802,6 @@
     "STN": [
         "sting"
     ],
-    "YO": [
-        "yobit-token"
-    ],
     "YAMV2": [
         "yam-v2"
     ],
@@ -6859,20 +6856,20 @@
     "UNIUP": [
         "uniup"
     ],
-    "POKE": [
-        "pokeball"
-    ],
     "ETH3S": [
         "amun-ether-3x-daily-short"
     ],
     "NBS": [
         "new-bitshares"
     ],
-    "XRPBULL": [
-        "3x-long-xrp-token"
+    "POKE": [
+        "pokeball"
     ],
     "KLAY": [
         "klaytn"
+    ],
+    "XRPBULL": [
+        "3x-long-xrp-token"
     ],
     "LINKUP": [
         "linkup"
@@ -6907,11 +6904,14 @@
     "DPI": [
         "defi-pulse-index"
     ],
+    "SHIB": [
+        "shiba-inu"
+    ],
     "BAS": [
         "basis-share"
     ],
-    "TVK": [
-        "terra-virtua-kolect"
+    "ETHBULL": [
+        "3x-long-ethereum-token"
     ],
     "KOK": [
         "keystone-of-opportunity-knowledge"
@@ -6923,8 +6923,8 @@
     "WIFI": [
         "wifi-coin"
     ],
-    "SHIB": [
-        "shiba-inu"
+    "YO": [
+        "yobit-token"
     ],
     "TRXUP": [
         "trxup"
@@ -6938,33 +6938,21 @@
     "XLMDOWN": [
         "xlmdown"
     ],
-    "BAMBOO": [
-        "panda-yield"
-    ],
     "XRPBEAR": [
         "3x-short-xrp-token"
     ],
     "CUSDT": [
         "compound-usdt"
     ],
-    "FXC": [
-        "futurexcrypto"
+    "TRA": [
+        "trabzonspor-fan-token"
     ],
     "LIEN": [
         "lien"
     ],
-    "TRA": [
-        "trabzonspor-fan-token"
-    ],
     "DSD": [
         "dynamic-set-dollar",
         "defi-nation-signals-dao"
-    ],
-    "TRXDOWN": [
-        "trxdown"
-    ],
-    "GOF": [
-        "golff"
     ],
     "CIR": [
         "circleswap"
@@ -6972,18 +6960,26 @@
     "WEMIX": [
         "wemix"
     ],
+    "FXC": [
+        "futurexcrypto"
+    ],
+    "GOF": [
+        "golff"
+    ],
     "MNR": [
         "mineral"
     ],
-    "BEAR": [
-        "3x-short-bitcoin-token",
-        "voytek-bear-coin"
-    ],
-    "ETHBULL": [
-        "3x-long-ethereum-token"
+    "TRXDOWN": [
+        "trxdown"
     ],
     "KEBAB": [
         "kebab-token"
+    ],
+    "BAMBOO": [
+        "panda-yield"
+    ],
+    "PAID": [
+        "paid-network"
     ],
     "UNCX": [
         "uncx"
@@ -6991,17 +6987,14 @@
     "BKK": [
         "bkex-token"
     ],
-    "PAID": [
-        "paid-network"
-    ],
     "FAIR": [
         "fairgame"
     ],
-    "AAVEUP": [
-        "aave-up"
-    ],
     "LOON": [
         "loon-network"
+    ],
+    "AAVEUP": [
+        "aave-up"
     ],
     "AOS": [
         "aos"
@@ -7011,6 +7004,10 @@
     ],
     "SXPDOWN": [
         "sxpdown"
+    ],
+    "BEAR": [
+        "3x-short-bitcoin-token",
+        "voytek-bear-coin"
     ],
     "NODE": [
         "whole-network",
@@ -7025,23 +7022,23 @@
     "CWBTC": [
         "compound-wrapped-btc"
     ],
-    "XED": [
-        "exeedme"
-    ],
     "ADABULL": [
         "3x-long-cardano-token"
+    ],
+    "BTCST": [
+        "bitcoin-standard-hashrate-token"
+    ],
+    "XED": [
+        "exeedme"
     ],
     "YAX": [
         "yaxis"
     ],
-    "SBDO": [
-        "bdollar-share"
-    ],
     "BSCX": [
         "bscex"
     ],
-    "BTCST": [
-        "bitcoin-standard-hashrate-token"
+    "SBDO": [
+        "bdollar-share"
     ],
     "WGRT": [
         "waykichain-governance-coin"
@@ -7049,15 +7046,15 @@
     "BMP": [
         "brother-music-platform"
     ],
-    "CVR": [
-        "polkacover",
-        "covir-io"
-    ],
-    "ZERO": [
-        "zero-exchange"
+    "RBC": [
+        "rubic",
+        "roti-bank-coin"
     ],
     "VRX": [
         "verox"
+    ],
+    "ZERO": [
+        "zero-exchange"
     ],
     "ERSDL": [
         "unfederalreserve"
@@ -7065,12 +7062,11 @@
     "RFUEL": [
         "rio-defi"
     ],
-    "RBC": [
-        "rubic",
-        "roti-bank-coin"
-    ],
     "WISE": [
         "wise"
+    ],
+    "DIGG": [
+        "digg"
     ],
     "UBU": [
         "ubu"
@@ -7078,20 +7074,14 @@
     "COMBO": [
         "furucombo"
     ],
-    "ETHBEAR": [
-        "3x-short-ethereum-token"
-    ],
     "DIS": [
         "tosdis"
     ],
-    "DIGG": [
-        "digg"
+    "ETHBEAR": [
+        "3x-short-ethereum-token"
     ],
     "DOGEBEAR": [
         "3x-short-dogecoin-token"
-    ],
-    "UFC": [
-        "union-fair-coin"
     ],
     "PICA": [
         "picaartmoney"
@@ -7119,12 +7109,15 @@
         "tesla-tokenized-stock-ftx",
         "tesla-tokenized-stock-bittrex"
     ],
+    "LINKBULL": [
+        "3x-long-chainlink-token"
+    ],
     "MIS": [
         "mithril-share",
         "themis-oracle"
     ],
-    "LINKBULL": [
-        "3x-long-chainlink-token"
+    "UFC": [
+        "union-fair-coin"
     ],
     "SBTC": [
         "sbtc",
@@ -7133,14 +7126,14 @@
     "FSW": [
         "fsw-token"
     ],
-    "CLIQ": [
-        "deficliq"
-    ],
     "SUSHIBULL": [
         "3x-long-sushi-token"
     ],
     "KIF": [
         "kittenfinance"
+    ],
+    "CLIQ": [
+        "deficliq"
     ],
     "PCI": [
         "payprotocol"
@@ -7154,14 +7147,11 @@
     "AUDT": [
         "australian-dollar-token"
     ],
-    "USDF": [
-        "folgoryusd"
+    "FILUP": [
+        "filup"
     ],
     "SOAR": [
         "soar-fi"
-    ],
-    "FILUP": [
-        "filup"
     ],
     "QBZ": [
         "queenbee"
@@ -7172,13 +7162,16 @@
     "DEGO": [
         "dego-finance"
     ],
+    "XCUR": [
+        "curate"
+    ],
     "DEC": [
         "decentr",
         "dark-energy-crystals",
         "distributed-energy-coin"
     ],
-    "XCUR": [
-        "curate"
+    "TVK": [
+        "terra-virtua-kolect"
     ],
     "BONDLY": [
         "bondly"
@@ -7198,11 +7191,11 @@
     "AME": [
         "amepay"
     ],
-    "DAIQ": [
-        "daiquilibrium"
-    ],
     "HAPY": [
         "hapy-coin"
+    ],
+    "POOLZ": [
+        "poolz-finance"
     ],
     "FCR": [
         "fromm-car"
@@ -7210,14 +7203,23 @@
     "BIA": [
         "bilaxy-token"
     ],
+    "DAIQ": [
+        "daiquilibrium"
+    ],
     "LBXC": [
         "lux-bio-cell"
     ],
     "DNS": [
         "bitdns"
     ],
-    "POOLZ": [
-        "poolz-finance"
+    "UMX": [
+        "unimex-network"
+    ],
+    "BNBUP": [
+        "bnbup"
+    ],
+    "SUP": [
+        "sup"
     ],
     "ICP": [
         "dfinity"
@@ -7225,46 +7227,37 @@
     "DOTDOWN": [
         "dotdown"
     ],
-    "BNBUP": [
-        "bnbup"
-    ],
     "Mars": [
         "mars"
     ],
-    "UMX": [
-        "unimex-network"
-    ],
-    "SUP": [
-        "sup"
+    "USDF": [
+        "folgoryusd"
     ],
     "CHFT": [
         "crypto-holding-frank-token"
     ],
-    "OSB": [
-        "oasisbloc"
-    ],
     "pBTC35A": [
         "pbtc35a"
+    ],
+    "OSB": [
+        "oasisbloc"
     ],
     "VELO": [
         "velo"
     ],
-    "YCC": [
-        "yuan-chain-coin"
+    "CAP": [
+        "capital-finance",
+        "cap"
     ],
     "YAM": [
         "yamv3",
         "yamv1"
     ],
+    "YCC": [
+        "yuan-chain-coin"
+    ],
     "DEUS": [
         "deus-finance"
-    ],
-    "AFC": [
-        "apiary-fund-coin"
-    ],
-    "CAP": [
-        "capital-finance",
-        "cap"
     ],
     "TCFX": [
         "tcbcoin"
@@ -7281,35 +7274,29 @@
     "CNZ": [
         "coinzo-token"
     ],
-    "EOSBULL": [
-        "3x-long-eos-token"
+    "UNC": [
+        "unicrypt"
     ],
     "YFTE": [
         "yftether"
     ],
-    "UNC": [
-        "unicrypt"
-    ],
-    "MOB": [
-        "mobilecoin"
+    "DEA": [
+        "deus-finance-dea"
     ],
     "AXN": [
         "axion"
     ],
+    "MOB": [
+        "mobilecoin"
+    ],
     "KAL": [
         "kaleido"
     ],
-    "DEA": [
-        "deus-finance-dea"
+    "AFC": [
+        "apiary-fund-coin"
     ],
     "BWB": [
         "bw-token"
-    ],
-    "CHT": [
-        "coinhe-token"
-    ],
-    "SKEY": [
-        "smartkey"
     ],
     "DFSOCIAL": [
         "defisocial-gaming"
@@ -7318,30 +7305,39 @@
         "lbk",
         "legalblock"
     ],
-    "HTR": [
-        "hathor"
-    ],
     "SPDR": [
         "spiderdao"
     ],
-    "JFI": [
-        "jackpool-finance"
+    "CHT": [
+        "coinhe-token"
+    ],
+    "HTR": [
+        "hathor"
+    ],
+    "SKEY": [
+        "smartkey"
+    ],
+    "EOSBULL": [
+        "3x-long-eos-token"
     ],
     "BDT": [
         "blackdragon",
         "block-duelers"
     ],
-    "ITAM": [
-        "itam-games"
-    ],
-    "EOSDOWN": [
-        "eosdown"
+    "JFI": [
+        "jackpool-finance"
     ],
     "NGM": [
         "e-money-coin"
     ],
     "RFOX": [
         "redfox-labs"
+    ],
+    "ITAM": [
+        "itam-games"
+    ],
+    "EOSDOWN": [
+        "eosdown"
     ],
     "MCB": [
         "mcdex"
@@ -7365,23 +7361,23 @@
     "CZRX": [
         "compound-0x"
     ],
-    "SWFL": [
-        "swapfolio"
-    ],
     "RAKU": [
         "rakun"
     ],
+    "SWFL": [
+        "swapfolio"
+    ],
     "YFD": [
         "yfdfi-finance"
+    ],
+    "BRZ": [
+        "brz"
     ],
     "MBX": [
         "mobiepay"
     ],
     "DGCL": [
         "digicol"
-    ],
-    "BRZ": [
-        "brz"
     ],
     "ADADOWN": [
         "adadown"
@@ -7395,29 +7391,29 @@
     "ALGOBULL": [
         "3x-long-algorand-token"
     ],
+    "DEXG": [
+        "dextoken"
+    ],
+    "POL": [
+        "proof-of-liquidity"
+    ],
     "TOPC": [
         "topchain"
     ],
     "NNB": [
         "nnb-token"
     ],
-    "POL": [
-        "proof-of-liquidity"
+    "YTA": [
+        "yottachain"
     ],
     "BUILD": [
         "build-finance"
     ],
-    "YTA": [
-        "yottachain"
-    ],
-    "QRX": [
-        "quiverx"
-    ],
     "BSVBULL": [
         "3x-long-bitcoin-sv-token"
     ],
-    "DEXG": [
-        "dextoken"
+    "QRX": [
+        "quiverx"
     ],
     "SHROOM": [
         "shroom-finance"
@@ -7451,11 +7447,11 @@
     "TRYB": [
         "bilira"
     ],
-    "N0001": [
-        "nhbtc"
-    ],
     "TKMN": [
         "tokemon"
+    ],
+    "N0001": [
+        "nhbtc"
     ],
     "GSWAP": [
         "gameswap"
@@ -7463,11 +7459,14 @@
     "DG": [
         "decentral-games"
     ],
+    "UNN": [
+        "union-protocol-governance-token"
+    ],
     "LAR": [
         "linkart"
     ],
-    "UNN": [
-        "union-protocol-governance-token"
+    "JFC": [
+        "jfin"
     ],
     "YFIM": [
         "yfi-mobi"
@@ -7478,14 +7477,11 @@
     "VX": [
         "vitex-coin"
     ],
-    "JFC": [
-        "jfin"
+    "wCRES": [
+        "wrapped-crescofin"
     ],
     "ME": [
         "all-me"
-    ],
-    "wCRES": [
-        "wrapped-crescofin"
     ],
     "SOCKS": [
         "unisocks"
@@ -7503,44 +7499,41 @@
     "BSE": [
         "buy-sell"
     ],
-    "XUC": [
-        "exchange-union"
-    ],
-    "CYF": [
-        "cy-finance"
-    ],
     "XTZDOWN": [
         "xtzdown"
     ],
-    "ZYRO": [
-        "zyro"
+    "XUC": [
+        "exchange-union"
     ],
     "ATTN": [
         "attn"
     ],
-    "LTCBULL": [
-        "3x-long-litecoin-token"
-    ],
     "ROUTE": [
         "router-protocol"
     ],
-    "XVIX": [
-        "xvix"
+    "LTCBULL": [
+        "3x-long-litecoin-token"
     ],
-    "EURU": [
-        "upper-euro"
-    ],
-    "CNFI": [
-        "connect-financial"
-    ],
-    "BCHBULL": [
-        "3x-long-bitcoin-cash-token"
+    "ZYRO": [
+        "zyro"
     ],
     "DOGZ": [
         "dogz"
     ],
-    "XAG": [
-        "xrpalike-gene"
+    "EURU": [
+        "upper-euro"
+    ],
+    "XVIX": [
+        "xvix"
+    ],
+    "BCHBULL": [
+        "3x-long-bitcoin-cash-token"
+    ],
+    "CNFI": [
+        "connect-financial"
+    ],
+    "CYF": [
+        "cy-finance"
     ],
     "GSMT": [
         "grafsound"
@@ -7548,23 +7541,20 @@
     "DXD": [
         "dxdao"
     ],
-    "CNNS": [
-        "cnns"
-    ],
     "TSR": [
         "tesra"
-    ],
-    "PSI": [
-        "passive-income"
     ],
     "VD": [
         "vindax-coin"
     ],
-    "EPAN": [
-        "paypolitan-token"
+    "PSI": [
+        "passive-income"
     ],
     "BUY": [
         "burency"
+    ],
+    "EPAN": [
+        "paypolitan-token"
     ],
     "DVI": [
         "dvision-network"
@@ -7578,14 +7568,17 @@
     "MSB": [
         "misbloc"
     ],
-    "PPAY": [
-        "plasma-finance"
+    "CNNS": [
+        "cnns"
     ],
     "SGR": [
         "sogur"
     ],
-    "NEBO": [
-        "csp-dao"
+    "TRXBULL": [
+        "3x-long-trx-token"
+    ],
+    "PPAY": [
+        "plasma-finance"
     ],
     "SATX": [
         "satoexchange-token"
@@ -7593,8 +7586,8 @@
     "USDU": [
         "upper-dollar"
     ],
-    "TRXBULL": [
-        "3x-long-trx-token"
+    "NEBO": [
+        "csp-dao"
     ],
     "DITTO": [
         "ditto"
@@ -7614,18 +7607,18 @@
     "MATICBULL": [
         "3x-long-matic-token"
     ],
-    "PURE": [
-        "puriever"
-    ],
-    "TCR": [
-        "tecracoin"
-    ],
     "MM": [
         "millimeter",
         "mm-token"
     ],
     "HANDY": [
         "handy"
+    ],
+    "TCR": [
+        "tecracoin"
+    ],
+    "PURE": [
+        "puriever"
     ],
     "XQC": [
         "quras"
@@ -7639,21 +7632,24 @@
     "MUST": [
         "cometh"
     ],
-    "MCH": [
-        "meconcash",
-        "meme-cash"
+    "XAG": [
+        "xrpalike-gene"
     ],
     "REAP": [
         "reapchain"
     ],
+    "MCH": [
+        "meconcash",
+        "meme-cash"
+    ],
     "BAG": [
         "bag"
     ],
-    "TRONX": [
-        "tronx-coin"
-    ],
     "LMCH": [
         "latamcash"
+    ],
+    "TRONX": [
+        "tronx-coin"
     ],
     "PTERIA": [
         "pteria"
@@ -7661,26 +7657,23 @@
     "IDK": [
         "idk"
     ],
-    "MUSE": [
-        "muse"
-    ],
     "XAUT": [
         "tether-gold"
     ],
     "PHOON": [
         "typhoon-cash"
     ],
+    "MUSE": [
+        "muse"
+    ],
+    "FDO": [
+        "firdaos"
+    ],
     "mGOOGL": [
         "mirrored-google"
     ],
     "BSYS": [
         "bsys"
-    ],
-    "FDO": [
-        "firdaos"
-    ],
-    "UNL": [
-        "unilock-network"
     ],
     "YFPI": [
         "yearn-finance-passive-income"
@@ -7691,14 +7684,11 @@
     "ROOT": [
         "rootkit-finance"
     ],
-    "OVR": [
-        "ovr"
+    "GLOX": [
+        "glox-finance"
     ],
     "JBX": [
         "jboxcoin"
-    ],
-    "GLOX": [
-        "glox-finance"
     ],
     "SHE": [
         "shinechain"
@@ -7706,23 +7696,14 @@
     "VOX": [
         "vox-finance"
     ],
-    "PDF": [
-        "port-of-defi-network"
-    ],
     "PIE": [
         "defipie"
     ],
+    "PDF": [
+        "port-of-defi-network"
+    ],
     "CBAT": [
         "compound-basic-attention-token"
-    ],
-    "EA": [
-        "ea-token"
-    ],
-    "BANK": [
-        "the-bank-coin"
-    ],
-    "MOGX": [
-        "mogu"
     ],
     "BUT": [
         "bitup-token"
@@ -7730,8 +7711,14 @@
     "JULD": [
         "julswap"
     ],
-    "EARN": [
-        "yearn-classic-finance"
+    "MOGX": [
+        "mogu"
+    ],
+    "EA": [
+        "ea-token"
+    ],
+    "UNL": [
+        "unilock-network"
     ],
     "GTH": [
         "gather"
@@ -7742,38 +7729,50 @@
     "MOV": [
         "motiv-protocol"
     ],
-    "PAYT": [
-        "payaccept"
-    ],
     "$ANRX": [
         "anrkey-x"
+    ],
+    "OVR": [
+        "ovr"
     ],
     "UNIDX": [
         "unidex"
     ],
+    "PAYT": [
+        "payaccept"
+    ],
+    "BANK": [
+        "the-bank-coin"
+    ],
+    "SPA": [
+        "sperax"
+    ],
     "BXA": [
         "blockchain-exchange-alliance"
+    ],
+    "BPX": [
+        "bispex"
     ],
     "NIF": [
         "unifty"
     ],
-    "RVX": [
-        "rivex"
+    "ONS": [
+        "one-share"
     ],
     "PLUT": [
         "pluto"
     ],
-    "ONS": [
-        "one-share"
+    "RVX": [
+        "rivex"
     ],
-    "QTBK": [
-        "quantbook"
+    "BPP": [
+        "bitpower"
     ],
     "MCP": [
         "my-crypto-play"
     ],
-    "BPP": [
-        "bitpower"
+    "QTBK": [
+        "quantbook"
     ],
     "DEBASE": [
         "debase"
@@ -7781,8 +7780,8 @@
     "RAP": [
         "realpay"
     ],
-    "CPR": [
-        "cipher"
+    "EARN": [
+        "yearn-classic-finance"
     ],
     "MINI": [
         "miniswap"
@@ -7791,14 +7790,11 @@
         "polkainsure-finance",
         "piswap-token"
     ],
-    "FAST": [
-        "fastswap"
-    ],
     "CLT": [
         "coinloan"
     ],
-    "BPX": [
-        "bispex"
+    "FAST": [
+        "fastswap"
     ],
     "FAR": [
         "farmland-protocol"
@@ -7816,17 +7812,23 @@
     "SWG": [
         "swirge"
     ],
+    "DACC": [
+        "dacc"
+    ],
     "TROP": [
         "interop"
-    ],
-    "HZT": [
-        "black-diamond-rating"
     ],
     "IIC": [
         "intelligent-investment-chain"
     ],
+    "HZT": [
+        "black-diamond-rating"
+    ],
     "GLCH": [
         "glitch"
+    ],
+    "BU": [
+        "bumo"
     ],
     "YBO": [
         "young-boys-fan-token"
@@ -7837,14 +7839,11 @@
     "CEDS": [
         "cedars"
     ],
-    "MQL": [
-        "miraqle"
-    ],
     "RAK": [
         "rake-finance"
     ],
-    "SZC": [
-        "zugacoin"
+    "MQL": [
+        "miraqle"
     ],
     "BITCI": [
         "bitcicoin"
@@ -7855,17 +7854,23 @@
     "LEX": [
         "elxis"
     ],
+    "DXF": [
+        "dexfin"
+    ],
     "LINKBEAR": [
         "3x-short-chainlink-token"
     ],
-    "ALPA": [
-        "alpaca-city"
+    "CPR": [
+        "cipher"
     ],
     "YVS": [
         "yvs-finance"
     ],
     "BCS": [
         "basiscoin-share"
+    ],
+    "ALPA": [
+        "alpaca-city"
     ],
     "BCHC": [
         "bitcherry"
@@ -7876,31 +7881,28 @@
     "BNS": [
         "bns-token"
     ],
+    "BNOX": [
+        "blocknotex"
+    ],
     "UC": [
         "youlive-coin"
+    ],
+    "UNW": [
+        "uniworld"
     ],
     "IOV": [
         "starname",
         "iov-blockchain"
     ],
-    "BNOX": [
-        "blocknotex"
-    ],
-    "DXF": [
-        "dexfin"
-    ],
-    "UNW": [
-        "uniworld"
-    ],
     "EXNT": [
         "exnetwork-token"
+    ],
+    "SZC": [
+        "zugacoin"
     ],
     "XT": [
         "xtcom-token",
         "extstock-token"
-    ],
-    "CHONK": [
-        "chonk"
     ],
     "BPLC": [
         "blackpearl-chain"
@@ -7908,38 +7910,41 @@
     "NAMI": [
         "tsunami"
     ],
-    "MGP": [
-        "mangochain"
+    "CHONK": [
+        "chonk"
     ],
     "JUS": [
         "just-network"
     ],
+    "STC": [
+        "student-coin"
+    ],
+    "MGP": [
+        "mangochain"
+    ],
     "SFUEL": [
         "sparkpoint-fuel"
     ],
-    "TOM": [
-        "tom-finance"
+    "MT": [
+        "mytoken"
     ],
     "AIM": [
         "modihost"
     ],
+    "TOM": [
+        "tom-finance"
+    ],
     "GASG": [
         "gasgains"
+    ],
+    "WBX": [
+        "wibx"
     ],
     "CFi": [
         "cyberfi"
     ],
-    "STC": [
-        "student-coin"
-    ],
     "WHALE": [
         "whale"
-    ],
-    "DACC": [
-        "dacc"
-    ],
-    "WBX": [
-        "wibx"
     ],
     "STPL": [
         "stream-protocol"
@@ -7952,6 +7957,9 @@
     ],
     "BVND": [
         "binance-vnd"
+    ],
+    "YFIIG": [
+        "yfii-gold"
     ],
     "YAS": [
         "yas"
@@ -7966,9 +7974,6 @@
     "PEGS": [
         "pegsshares"
     ],
-    "YFIIG": [
-        "yfii-gold"
-    ],
     "TOK": [
         "tokok"
     ],
@@ -7977,9 +7982,6 @@
     ],
     "GDAO": [
         "governor-dao"
-    ],
-    "PROB": [
-        "probit-token"
     ],
     "LUD": [
         "ludos"
@@ -7990,8 +7992,8 @@
     "ELT": [
         "elite-swap"
     ],
-    "BULLS": [
-        "bulls"
+    "PROB": [
+        "probit-token"
     ],
     "EIDOS": [
         "eidos"
@@ -8005,14 +8007,14 @@
     "ENB": [
         "earnbase"
     ],
-    "UTU": [
-        "utu-protocol"
+    "TAI": [
+        "tai"
     ],
     "BKBT": [
         "beekan"
     ],
-    "TAI": [
-        "tai"
+    "UTU": [
+        "utu-protocol"
     ],
     "TAD": [
         "tadpole-finance"
@@ -8020,17 +8022,14 @@
     "JNB": [
         "jinbi-token"
     ],
-    "BU": [
-        "bumo"
-    ],
     "L2P": [
         "lung-protocol"
     ],
     "ALGOBEAR": [
         "3x-short-algorand-token"
     ],
-    "ENOL": [
-        "ethanol"
+    "1GOLD": [
+        "1irstgold"
     ],
     "arNXM": [
         "armor-nxm"
@@ -8039,71 +8038,74 @@
         "social-rocket",
         "rocki"
     ],
-    "BANANA": [
-        "banana-finance"
+    "TBB": [
+        "trade-butler-bot"
     ],
     "GYSR": [
         "gysr"
     ],
-    "1GOLD": [
-        "1irstgold"
-    ],
-    "PUNT": [
-        "greenheart-punt"
-    ],
-    "NFUP": [
-        "natural-farm-union-protocol"
+    "BULLS": [
+        "bulls"
     ],
     "BTCHG": [
         "bitcoinhedge"
     ],
+    "ENOL": [
+        "ethanol"
+    ],
+    "NFUP": [
+        "natural-farm-union-protocol"
+    ],
+    "PUNT": [
+        "greenheart-punt"
+    ],
     "BLX": [
         "balloon-x"
     ],
-    "HRD": [
-        "hrdcoin"
-    ],
-    "ETHHEDGE": [
-        "1x-short-ethereum-token"
+    "BANANA": [
+        "banana-finance"
     ],
     "UNCL": [
         "uncl"
     ],
-    "EGCC": [
-        "engine"
+    "LOT": [
+        "lukki-operating-token"
     ],
-    "BITO": [
-        "bitopro-exchange-token"
+    "HRD": [
+        "hrdcoin"
     ],
     "BUNNY": [
         "pancakebunny"
     ],
-    "TBB": [
-        "trade-butler-bot"
+    "UBXT": [
+        "upbots"
+    ],
+    "ETHHEDGE": [
+        "1x-short-ethereum-token"
+    ],
+    "BITO": [
+        "bitopro-exchange-token"
+    ],
+    "EGCC": [
+        "engine"
     ],
     "PRIA": [
         "pria"
     ],
-    "UBXT": [
-        "upbots"
-    ],
-    "FILDOWN": [
-        "fildown"
+    "TACO": [
+        "tacos"
     ],
     "TEM": [
         "temtum"
     ],
-    "TACO": [
-        "tacos"
-    ],
-    "BCX": [
-        "bitcoinx"
+    "FILDOWN": [
+        "fildown"
     ],
     "SUSHIBEAR": [
         "3x-short-sushi-token"
     ],
-    "LOT": [
-        "lukki-operating-token"
+    "BCX": [
+        "bitcoinx"
     ],
     "U8D": [
         "universal-dollar"
@@ -8114,11 +8116,23 @@
     "B21": [
         "b21-invest"
     ],
+    "RAE": [
+        "receive-access-ecosystem"
+    ],
     "TMC": [
         "trading-membership-community"
     ],
     "YETI": [
         "yearn-ecosystem-token-index"
+    ],
+    "NTB": [
+        "tokenasset"
+    ],
+    "NILU": [
+        "nilu"
+    ],
+    "STOP": [
+        "satopay-network"
     ],
     "VOLLAR": [
         "v-dimension"
@@ -8126,17 +8140,17 @@
     "DHC": [
         "deltahub-community"
     ],
-    "CSPC": [
-        "cspc"
-    ],
-    "NTB": [
-        "tokenasset"
+    "KLP": [
+        "kulupu"
     ],
     "PFID": [
         "pofid-dao"
     ],
-    "KLP": [
-        "kulupu"
+    "TV": [
+        "ti-value"
+    ],
+    "CSPC": [
+        "cspc"
     ],
     "PC": [
         "promotion-coin"
@@ -8144,27 +8158,18 @@
     "JEM": [
         "itchiro-games"
     ],
-    "TV": [
-        "ti-value"
-    ],
-    "STOP": [
-        "satopay-network"
+    "YOT": [
+        "payyoda"
     ],
     "COMB": [
         "combo",
         "combine-finance"
-    ],
-    "YOT": [
-        "payyoda"
     ],
     "VVT": [
         "versoview"
     ],
     "TMT": [
         "tamy-token"
-    ],
-    "MT": [
-        "mytoken"
     ],
     "GR": [
         "grom"
@@ -8181,17 +8186,14 @@
     "IYF": [
         "iyf-finance"
     ],
+    "DAPPT": [
+        "dapp-token"
+    ],
     "ECELL": [
         "consensus-cell-network"
     ],
     "ETHBN": [
         "etherbone"
-    ],
-    "NILU": [
-        "nilu"
-    ],
-    "DAPPT": [
-        "dapp-token"
     ],
     "AKM": [
         "cost-coin"
@@ -8202,20 +8204,14 @@
     "BNZ": [
         "bonezyard"
     ],
-    "RAE": [
-        "receive-access-ecosystem"
-    ],
     "DEVE": [
         "divert-finance"
-    ],
-    "ZDX": [
-        "zer-dex"
     ],
     "CATX": [
         "cat-trade-protocol"
     ],
-    "VRGX": [
-        "vroomgo"
+    "ATOMBULL": [
+        "3x-long-cosmos-token"
     ],
     "FNK": [
         "fnk-wallet",
@@ -8227,18 +8223,18 @@
     "EVZ": [
         "electric-vehicle-zone"
     ],
-    "ATOMBULL": [
-        "3x-long-cosmos-token"
-    ],
     "WIS": [
         "experty-wisdom-token",
         "wish-coin"
     ],
+    "VRGX": [
+        "vroomgo"
+    ],
     "YELD": [
         "yeld-finance"
     ],
-    "HLAND": [
-        "hland-token"
+    "ESRC": [
+        "esr-coin"
     ],
     "MEET": [
         "coinmeet"
@@ -8249,11 +8245,11 @@
     "YFDOT": [
         "yearn-finance-dot"
     ],
-    "RSV": [
-        "reserve"
-    ],
     "DEGOV": [
         "degov"
+    ],
+    "RSV": [
+        "reserve"
     ],
     "ADP": [
         "adappter-token"
@@ -8261,17 +8257,14 @@
     "HDAC": [
         "hdac"
     ],
-    "CTI": [
-        "clintex-cti"
-    ],
-    "ESRC": [
-        "esr-coin"
+    "HINT": [
+        "hintchain"
     ],
     "WSCRT": [
         "secret-erc20"
     ],
-    "HINT": [
-        "hintchain"
+    "CTI": [
+        "clintex-cti"
     ],
     "NYAN": [
         "nyan-finance"
@@ -8291,8 +8284,8 @@
     "4ART": [
         "4artechnologies"
     ],
-    "FFF": [
-        "force-for-fast"
+    "ZDX": [
+        "zer-dex"
     ],
     "WAR": [
         "yieldwars-com"
@@ -8303,14 +8296,20 @@
     "OBR": [
         "order-of-the-black-rose"
     ],
-    "CBANK": [
-        "cryptobank"
+    "FFF": [
+        "force-for-fast"
+    ],
+    "UCAP": [
+        "unicap-finance"
+    ],
+    "GNC": [
+        "galaxy-network"
     ],
     "TRXBEAR": [
         "3x-short-trx-token"
     ],
-    "GNC": [
-        "galaxy-network"
+    "DSS": [
+        "defi-shopping-stake"
     ],
     "KOBE": [
         "shabu-shabu-finance"
@@ -8321,41 +8320,32 @@
     "MSWAP": [
         "moneyswap"
     ],
-    "UCAP": [
-        "unicap-finance"
-    ],
-    "DRGB": [
-        "dragonbit"
+    "CBANK": [
+        "cryptobank"
     ],
     "SEEN": [
         "seen"
     ],
-    "DIC": [
-        "daikicoin"
+    "DRGB": [
+        "dragonbit"
     ],
     "KP3RB": [
         "keep3r-bsc-network"
     ],
+    "LID": [
+        "liquidity-dividends-protocol"
+    ],
+    "DIC": [
+        "daikicoin"
+    ],
     "YEFIM": [
         "yfi-management"
-    ],
-    "YPIE": [
-        "piedao-yearn-ecosystem-pie"
     ],
     "VIDYX": [
         "vidyx"
     ],
-    "DSS": [
-        "defi-shopping-stake"
-    ],
     "LYFE": [
         "lyfe"
-    ],
-    "LID": [
-        "liquidity-dividends-protocol"
-    ],
-    "TEAT": [
-        "teal"
     ],
     "MTCN": [
         "multicoin"
@@ -8363,14 +8353,23 @@
     "WCELO": [
         "wrapped-celo"
     ],
+    "TEAT": [
+        "teal"
+    ],
+    "HLAND": [
+        "hland-token"
+    ],
     "RFCTR": [
         "reflector-finance"
+    ],
+    "ZHEGIC": [
+        "zhegic"
     ],
     "FME": [
         "fme"
     ],
-    "ZHEGIC": [
-        "zhegic"
+    "MTR": [
+        "meter-stable"
     ],
     "IDX": [
         "index-chain"
@@ -8384,29 +8383,29 @@
     "NVA": [
         "neeva-defi"
     ],
-    "MTR": [
-        "meter-stable"
-    ],
     "LCG": [
         "lcg"
+    ],
+    "YPIE": [
+        "piedao-yearn-ecosystem-pie"
     ],
     "BUIDL": [
         "dfohub"
     ],
-    "JDC": [
-        "jd-coin"
-    ],
-    "NBT": [
-        "nix-bridge-token"
-    ],
-    "DTOP": [
-        "data-trade-on-demand-platform"
+    "MCM": [
+        "mochimo"
     ],
     "CXC": [
         "capital-x-cell"
     ],
-    "MCM": [
-        "mochimo"
+    "JDC": [
+        "jd-coin"
+    ],
+    "DTOP": [
+        "data-trade-on-demand-platform"
+    ],
+    "NBT": [
+        "nix-bridge-token"
     ],
     "SLM": [
         "solomon-defi"
@@ -8420,14 +8419,14 @@
     "UBX": [
         "ubix-network"
     ],
-    "YSKF": [
-        "yearn-shark-finance"
-    ],
     "EFG": [
         "ecoc-financial-growth"
     ],
     "SBS": [
         "staysbase"
+    ],
+    "LTP": [
+        "lifetioncoin"
     ],
     "ASM": [
         "assemble-protocol"
@@ -8435,44 +8434,44 @@
     "HYDRA": [
         "hydra"
     ],
+    "SCU": [
+        "securypto"
+    ],
     "D4RK": [
         "dark"
     ],
     "GLDY": [
         "buzzshow"
     ],
-    "YFOX": [
-        "yfox-finance"
+    "SYNC": [
+        "sync-network"
     ],
     "YMAX": [
         "ymax"
     ],
-    "SYNC": [
-        "sync-network"
+    "YFOX": [
+        "yfox-finance"
     ],
     "UAT": [
         "ultralpha"
     ],
-    "TRCL": [
-        "treecle"
-    ],
-    "SCU": [
-        "securypto"
-    ],
     "FOCV": [
         "focv"
     ],
-    "BEC": [
-        "betherchip"
+    "AKN": [
+        "akoin"
+    ],
+    "TRCL": [
+        "treecle"
     ],
     "KYSC": [
         "kysc-token"
     ],
-    "LTP": [
-        "lifetioncoin"
-    ],
     "HD": [
         "hubdao"
+    ],
+    "BEC": [
+        "betherchip"
     ],
     "SPICE": [
         "spice",
@@ -8490,27 +8489,30 @@
     "FRIES": [
         "fryworld"
     ],
-    "MANDI": [
-        "mandi-token"
-    ],
-    "GC": [
-        "galaxy-wallet",
-        "gric-coin"
-    ],
     "RNX": [
         "roonex"
     ],
     "KODX": [
         "king-of-defi"
     ],
+    "MANDI": [
+        "mandi-token"
+    ],
     "WOA": [
         "wrapped-origin-axie"
+    ],
+    "GC": [
+        "galaxy-wallet",
+        "gric-coin"
     ],
     "VISION": [
         "apy-vision"
     ],
     "SURF": [
         "surf"
+    ],
+    "BSDS": [
+        "basis-dollar-share"
     ],
     "MIDBULL": [
         "3x-long-midcap-index-token"
@@ -8522,14 +8524,11 @@
         "grace-period-token",
         "gopower"
     ],
-    "AKN": [
-        "akoin"
-    ],
-    "BSDS": [
-        "basis-dollar-share"
-    ],
     "DESH": [
         "decash"
+    ],
+    "YSKF": [
+        "yearn-shark-finance"
     ],
     "CBSE": [
         "coinbase-pre-ipo-tokenized-stock-ftx"
@@ -8540,6 +8539,9 @@
     "NDAU": [
         "ndau"
     ],
+    "ASY": [
+        "asyagro"
+    ],
     "AK12": [
         "ak12"
     ],
@@ -8548,9 +8550,6 @@
     ],
     "BCB": [
         "building-cities-beyond-blockchain"
-    ],
-    "ASY": [
-        "asyagro"
     ],
     "SKLAY": [
         "sklay"
@@ -8608,14 +8607,11 @@
     "TUDA": [
         "tutors-diary"
     ],
-    "VLC": [
-        "valuechain"
-    ],
     "XIF": [
         "x-infinity"
     ],
-    "SPA": [
-        "sperax"
+    "VLC": [
+        "valuechain"
     ],
     "IOEX": [
         "ioex"
@@ -8623,23 +8619,23 @@
     "FBT": [
         "fanbi-token"
     ],
-    "IX": [
-        "x-block"
-    ],
     "YFFI": [
         "yffi-finance"
     ],
-    "KP2R": [
-        "kp2r-network"
-    ],
     "PRT": [
         "portion"
+    ],
+    "IX": [
+        "x-block"
     ],
     "DARK": [
         "darkbuild"
     ],
     "LTCBEAR": [
         "3x-short-litecoin-token"
+    ],
+    "KP2R": [
+        "kp2r-network"
     ],
     "TMED": [
         "mdsquare"
@@ -8665,20 +8661,23 @@
     "MEX": [
         "mex"
     ],
+    "GBK": [
+        "goldblock"
+    ],
     "CHS": [
         "cheeseswap"
-    ],
-    "YLFI": [
-        "yearn-loans-finance"
     ],
     "KAU": [
         "kauri-crypto"
     ],
-    "IFEX": [
-        "interfinex"
-    ],
     "YFIX": [
         "yfix-finance"
+    ],
+    "YLFI": [
+        "yearn-loans-finance"
+    ],
+    "IFEX": [
+        "interfinex"
     ],
     "LEMO": [
         "lemochain"
@@ -8686,9 +8685,6 @@
     "OWL": [
         "owl-token-stealthswap",
         "owl"
-    ],
-    "GBK": [
-        "goldblock"
     ],
     "LIMEX": [
         "limestone-network"
@@ -8720,8 +8716,8 @@
     "OAP": [
         "openalexa-protocol"
     ],
-    "LEVELG": [
-        "levelg"
+    "TRND": [
+        "trendering"
     ],
     "MGC": [
         "mgc-token"
@@ -8729,24 +8725,24 @@
     "SG": [
         "socialgood"
     ],
-    "TRND": [
-        "trendering"
-    ],
-    "INTX": [
-        "intexcoin"
-    ],
     "ADABEAR": [
         "3x-short-cardano-token"
-    ],
-    "DOOS": [
-        "doos-token"
     ],
     "YFT": [
         "toshify-finance",
         "yield-farming-token"
     ],
+    "INTX": [
+        "intexcoin"
+    ],
+    "DOOS": [
+        "doos-token"
+    ],
     "CHAIN": [
         "chain-games"
+    ],
+    "LEVELG": [
+        "levelg"
     ],
     "NAN": [
         "nantrade"
@@ -8760,23 +8756,26 @@
     "JOYS": [
         "joys-digital"
     ],
-    "SECO": [
-        "serum-ecosystem-token"
-    ],
     "IBP": [
         "innovation-blockchain-payment"
-    ],
-    "MAZ": [
-        "mazzuma"
     ],
     "WAXE": [
         "waxe"
     ],
-    "SST": [
-        "simba-storage-token"
+    "SECO": [
+        "serum-ecosystem-token"
+    ],
+    "BFI": [
+        "bitdefi"
+    ],
+    "MAZ": [
+        "mazzuma"
     ],
     "UOP": [
         "utopia-genesis-foundation"
+    ],
+    "SST": [
+        "simba-storage-token"
     ],
     "PRY": [
         "prophecy"
@@ -8788,14 +8787,17 @@
         "carrot",
         "cryptonits"
     ],
-    "DYT": [
-        "doyourtip"
-    ],
     "YFFS": [
         "yffs"
     ],
-    "ZTNZ": [
-        "ztranzit-coin"
+    "YFIAG": [
+        "yearnagnostic-finance"
+    ],
+    "DYT": [
+        "doyourtip"
+    ],
+    "BCNT": [
+        "bincentive"
     ],
     "DEFI+S": [
         "piedao-defi-small-cap"
@@ -8803,8 +8805,8 @@
     "RENFIL": [
         "renfil"
     ],
-    "BCNT": [
-        "bincentive"
+    "ZTNZ": [
+        "ztranzit-coin"
     ],
     "UWL": [
         "uniwhales"
@@ -8815,9 +8817,6 @@
     "BNBBULL": [
         "3x-long-bnb-token"
     ],
-    "BFI": [
-        "bitdefi"
-    ],
     "UTED": [
         "united-token"
     ],
@@ -8827,59 +8826,59 @@
     "C20": [
         "c20"
     ],
-    "ALTBULL": [
-        "3x-long-altcoin-index-token"
-    ],
     "OVOA": [
         "theovoridea"
     ],
     "VBZRX": [
         "vbzrx"
     ],
-    "GVE": [
-        "globalvillage-ecosystem"
-    ],
     "GMNG": [
         "global-gaming"
+    ],
+    "ALTBULL": [
+        "3x-long-altcoin-index-token"
+    ],
+    "GVE": [
+        "globalvillage-ecosystem"
     ],
     "HIBS": [
         "hiblocks"
     ],
+    "SIMPLE": [
+        "simplechain"
+    ],
     "KIP": [
         "khipu-token"
-    ],
-    "MOONDAY": [
-        "moonday-finance"
-    ],
-    "LNT": [
-        "lottonation"
     ],
     "CHM": [
         "cryptochrome"
     ],
-    "SIMPLE": [
-        "simplechain"
+    "LNT": [
+        "lottonation"
+    ],
+    "MOONDAY": [
+        "moonday-finance"
     ],
     "XLPG": [
         "stellarpayglobal"
     ],
-    "TRI": [
-        "trinity-protocol"
-    ],
-    "YFIAG": [
-        "yearnagnostic-finance"
-    ],
     "LC4": [
         "leading-coin-4-entrepreneurs"
+    ],
+    "TRI": [
+        "trinity-protocol"
     ],
     "3Cs": [
         "crypto-cricket-club"
     ],
-    "DEFLCT": [
-        "deflect"
-    ],
     "UCO": [
         "uniris"
+    ],
+    "UNISTAKE": [
+        "unistake"
+    ],
+    "PSY": [
+        "psychic"
     ],
     "BALI": [
         "bali-coin"
@@ -8887,23 +8886,20 @@
     "FMA": [
         "flama"
     ],
-    "PSY": [
-        "psychic"
+    "GSE": [
+        "gsenetwork"
     ],
     "BCHBEAR": [
         "3x-short-bitcoin-cash-token"
     ],
-    "GSE": [
-        "gsenetwork"
-    ],
     "PLBT": [
         "polybius"
     ],
+    "DEFLCT": [
+        "deflect"
+    ],
     "RWN": [
         "rowan-token"
-    ],
-    "HTBULL": [
-        "3x-long-huobi-token-token"
     ],
     "DIGEX": [
         "digex"
@@ -8923,12 +8919,6 @@
     "TTC": [
         "ttcrypto"
     ],
-    "UNISTAKE": [
-        "unistake"
-    ],
-    "PERX": [
-        "peerex"
-    ],
     "UHP": [
         "ulgen-hash-power"
     ],
@@ -8938,20 +8928,26 @@
     "AGVC": [
         "agavecoin"
     ],
-    "BVL": [
-        "bullswap-exchange"
-    ],
-    "APLP": [
-        "apple-finance"
-    ],
     "MIKS": [
         "miks-coin"
     ],
     "BYTS": [
         "bytus"
     ],
+    "APLP": [
+        "apple-finance"
+    ],
+    "PERX": [
+        "peerex"
+    ],
+    "BVL": [
+        "bullswap-exchange"
+    ],
     "FN": [
         "filenet"
+    ],
+    "OTB": [
+        "otcbtc-token"
     ],
     "ESTI": [
         "easticoin"
@@ -8962,39 +8958,36 @@
     "BCP": [
         "piedao-balanced-crypto-pie"
     ],
-    "DEFO": [
-        "defhold"
-    ],
     "BKRW": [
         "binance-krw"
     ],
-    "ACXT": [
-        "ac-exchange-token"
+    "DEFO": [
+        "defhold"
     ],
     "DILI": [
         "d-community"
     ],
+    "FLS": [
+        "flits"
+    ],
     "F1C": [
         "future1coin"
+    ],
+    "ACXT": [
+        "ac-exchange-token"
     ],
     "REL": [
         "relevant",
         "release-project"
     ],
-    "GLAD": [
-        "gladius-finance"
-    ],
     "ZAI": [
         "zero-collateral-dai"
     ],
-    "FLS": [
-        "flits"
+    "SETH": [
+        "seth"
     ],
     "XSC": [
         "xscoin"
-    ],
-    "SETH": [
-        "seth"
     ],
     "KOMET": [
         "komet"
@@ -9005,11 +8998,14 @@
     "KEYT": [
         "rebit"
     ],
+    "R3FI": [
+        "r3fi-finance"
+    ],
+    "GLAD": [
+        "gladius-finance"
+    ],
     "YNK": [
         "yoink"
-    ],
-    "DWS": [
-        "dws"
     ],
     "CPI": [
         "crypto-price-index"
@@ -9017,17 +9013,23 @@
     "NEWOS": [
         "newstoken"
     ],
+    "DWS": [
+        "dws"
+    ],
     "CAVO": [
         "excavo-finance"
     ],
     "WDC": [
         "wisdom-chain"
     ],
+    "ALG": [
+        "bitalgo"
+    ],
     "AGAR": [
         "agar"
     ],
-    "OTB": [
-        "otcbtc-token"
+    "SPOK": [
+        "spockchain-network"
     ],
     "ZOC": [
         "01coin"
@@ -9035,29 +9037,23 @@
     "BTRL": [
         "bitcoinregular"
     ],
-    "SPOK": [
-        "spockchain-network"
-    ],
     "CORAL": [
         "coral-swap"
-    ],
-    "LOVE": [
-        "love-coin"
     ],
     "ITS": [
         "iterationsyndicate"
     ],
-    "RWS": [
-        "robonomics-web-services"
-    ],
     "EFK": [
         "refork"
     ],
-    "USDEX": [
-        "usdex"
+    "RWS": [
+        "robonomics-web-services"
     ],
     "COIN": [
         "coin-artist"
+    ],
+    "USDEX": [
+        "usdex"
     ],
     "EDI": [
         "freight-trust-clearing-network"
@@ -9065,17 +9061,14 @@
     "QHC": [
         "qchi-chain"
     ],
-    "R3FI": [
-        "r3fi-finance"
-    ],
     "EFAR": [
         "fridn"
     ],
-    "LOA": [
-        "loa-protocol"
-    ],
     "NYAN-2": [
         "nyan-v2"
+    ],
+    "LOA": [
+        "loa-protocol"
     ],
     "DMX": [
         "dymmax"
@@ -9085,6 +9078,9 @@
     ],
     "SLS": [
         "salus"
+    ],
+    "SPIZ": [
+        "space-iz"
     ],
     "UCR": [
         "ultra-clear"
@@ -9104,23 +9100,20 @@
     "EYES": [
         "eyes-protocol"
     ],
+    "IQC": [
+        "intelligence-quickly-chain"
+    ],
     "SAV3": [
         "sav3token"
     ],
     "DUSD": [
         "defidollar"
     ],
-    "IQC": [
-        "intelligence-quickly-chain"
-    ],
     "ARKK": [
         "ark-innovation-etf-tokenized-stock-ftx"
     ],
     "KIM": [
         "kingmoney"
-    ],
-    "SPIZ": [
-        "space-iz"
     ],
     "QOOB": [
         "qoober"
@@ -9131,14 +9124,14 @@
     "GLOB": [
         "global-reserve-system"
     ],
+    "VINCI": [
+        "vinci"
+    ],
     "AENS": [
         "aen-smart-token"
     ],
     "VRO": [
         "veraone"
-    ],
-    "VINCI": [
-        "vinci"
     ],
     "ZYX": [
         "zyx"
@@ -9146,17 +9139,11 @@
     "WDP": [
         "waterdrop"
     ],
-    "TBP": [
-        "tradebitpay"
-    ],
     "ONES": [
         "oneswap-dao-token"
     ],
     "KFC": [
         "chicken"
-    ],
-    "ALG": [
-        "bitalgo"
     ],
     "HEBE": [
         "hebeblock"
@@ -9164,11 +9151,14 @@
     "DFGL": [
         "defi-gold"
     ],
-    "BUP": [
-        "buildup"
+    "DSYS": [
+        "dsys"
     ],
     "$PIR": [
         "piranhas"
+    ],
+    "BUP": [
+        "buildup"
     ],
     "FUD": [
         "fudfinance"
@@ -9185,47 +9175,50 @@
     "LTX": [
         "lattice-token"
     ],
-    "TBT": [
-        "tidebit-token"
-    ],
     "FTB": [
         "free-tool-box-coin"
     ],
-    "LELE": [
-        "lelefoodchain"
-    ],
-    "DSYS": [
-        "dsys"
+    "TBT": [
+        "tidebit-token"
     ],
     "TWI": [
         "trade-win"
     ],
-    "IBVOL": [
-        "inverse-bitcoin-volatility-token"
+    "LELE": [
+        "lelefoodchain"
     ],
     "AMC": [
         "amc-entertainment-holdings-tokenized-stock-ftx"
     ],
+    "LOVE": [
+        "love-coin"
+    ],
+    "IBVOL": [
+        "inverse-bitcoin-volatility-token"
+    ],
+    "TBP": [
+        "tradebitpay"
+    ],
     "XDEF2": [
         "xdef-finance"
-    ],
-    "EMT": [
-        "emanate"
-    ],
-    "SKI": [
-        "skillchain"
-    ],
-    "TUNE": [
-        "tune-token"
-    ],
-    "DFIO": [
-        "defi-omega"
     ],
     "BCR": [
         "bankcoin-reserve"
     ],
+    "SKI": [
+        "skillchain"
+    ],
+    "EMT": [
+        "emanate"
+    ],
+    "DFIO": [
+        "defi-omega"
+    ],
     "DSWAP": [
         "definex"
+    ],
+    "TUNE": [
+        "tune-token"
     ],
     "LUA": [
         "lua-token"
@@ -9254,17 +9247,20 @@
     "NUT": [
         "native-utility-token"
     ],
-    "MATICBEAR": [
-        "3x-short-matic-token"
+    "KVNT": [
+        "kvant"
     ],
     "GOM": [
         "gomics"
     ],
+    "MATICBEAR": [
+        "3x-short-matic-token"
+    ],
     "STP": [
         "stpay"
     ],
-    "KVNT": [
-        "kvant"
+    "808TA": [
+        "808ta"
     ],
     "DON": [
         "deonex-coin"
@@ -9272,11 +9268,11 @@
     "SGT": [
         "snglsdao"
     ],
-    "ECOC": [
-        "ecochain"
-    ],
     "KVI": [
         "kvi"
+    ],
+    "ECOC": [
+        "ecochain"
     ],
     "STACY": [
         "stacy"
@@ -9287,17 +9283,17 @@
     "ZUT": [
         "zero-utility-token"
     ],
-    "R34P": [
-        "r34p"
-    ],
     "XDAG": [
         "xdag"
     ],
-    "BDCASH": [
-        "bigdatacash"
+    "R34P": [
+        "r34p"
     ],
     "AIB": [
         "advanced-internet-blocks"
+    ],
+    "BDCASH": [
+        "bigdatacash"
     ],
     "FX1": [
         "fanzy"
@@ -9314,12 +9310,6 @@
     "RC20": [
         "robocalls"
     ],
-    "DCL": [
-        "delphi-chain-link"
-    ],
-    "UBIN": [
-        "ubiner"
-    ],
     "IPM": [
         "timers"
     ],
@@ -9332,46 +9322,49 @@
     "THS": [
         "the-hash-speed"
     ],
-    "808TA": [
-        "808ta"
+    "VBK": [
+        "veriblock"
     ],
     "BONO": [
         "bonorum"
     ],
-    "VANY": [
-        "vanywhere"
+    "UBIN": [
+        "ubiner"
     ],
-    "BULLSHIT": [
-        "3x-long-shitcoin-index-token"
+    "DCL": [
+        "delphi-chain-link"
     ],
     "TOMOBEAR": [
         "3x-short-tomochain-token"
     ],
+    "BULLSHIT": [
+        "3x-long-shitcoin-index-token"
+    ],
+    "VANY": [
+        "vanywhere"
+    ],
     "MODEX": [
         "modex"
-    ],
-    "VBK": [
-        "veriblock"
     ],
     "TTX": [
         "talent-token"
     ],
+    "CARAT": [
+        "carat"
+    ],
     "ALMX": [
         "almace-shards"
     ],
-    "BICAS": [
-        "bithercash"
-    ],
     "YFIE": [
         "yfiexchange-finance"
+    ],
+    "BICAS": [
+        "bithercash"
     ],
     "DICE": [
         "etheroll",
         "dice",
         "tronbetdice"
-    ],
-    "CARAT": [
-        "carat"
     ],
     "WG0": [
         "wrapped-gen-0-cryptokitties"
@@ -9404,11 +9397,11 @@
     "WAIF": [
         "waifu-token"
     ],
-    "CCE": [
-        "cloudcoin"
-    ],
     "LOV": [
         "the-lovechain"
+    ],
+    "CCE": [
+        "cloudcoin"
     ],
     "PUML": [
         "puml-better-health"
@@ -9425,11 +9418,11 @@
     "TSM": [
         "taiwan-semiconductor-mfg-tokenized-stock-ftx"
     ],
+    "TUP": [
+        "tenup"
+    ],
     "TRIB": [
         "contribute"
-    ],
-    "LDN": [
-        "ludena-protocol"
     ],
     "FR": [
         "freedom-reserve"
@@ -9440,17 +9433,21 @@
     "AZUKI": [
         "azuki"
     ],
+    "LDN": [
+        "ludena-protocol"
+    ],
     "CITY": [
         "city-coin"
     ],
-    "TUP": [
-        "tenup"
+    "VMR": [
+        "vomer"
     ],
     "DION": [
         "dionpay"
     ],
-    "VMR": [
-        "vomer"
+    "CVR": [
+        "polkacover",
+        "covir-io"
     ],
     "LKN": [
         "linkcoin-token"
@@ -9468,20 +9465,17 @@
         "apple-tokenized-stock-bittrex",
         "apple-tokenized-stock-ftx"
     ],
-    "POX": [
-        "pollux-coin"
+    "CIX100": [
+        "cryptoindex-com-100"
     ],
     "BNBBEAR": [
         "3x-short-bnb-token"
     ],
+    "POX": [
+        "pollux-coin"
+    ],
     "XSP": [
         "xsp"
-    ],
-    "CIX100": [
-        "cryptoindex-com-100"
-    ],
-    "ENTONE": [
-        "entone"
     ],
     "CHERRY": [
         "cherry"
@@ -9495,23 +9489,26 @@
     "XEP": [
         "electra-protocol"
     ],
+    "ENTONE": [
+        "entone"
+    ],
     "AIN": [
         "ai-network"
-    ],
-    "WHEN": [
-        "when-token"
     ],
     "CHADS": [
         "chads-vc"
     ],
+    "WHEN": [
+        "when-token"
+    ],
     "DCY": [
         "dinastycoin"
     ],
-    "STONK": [
-        "stonk"
-    ],
     "FOX": [
         "fox-token"
+    ],
+    "STONK": [
+        "stonk"
     ],
     "iOWN": [
         "iown-token"
@@ -9522,11 +9519,11 @@
     "UCM": [
         "ucrowdme"
     ],
-    "WIX": [
-        "wixlar"
-    ],
     "ESWA": [
         "easyswap"
+    ],
+    "WIX": [
+        "wixlar"
     ],
     "ANG": [
         "aureus-nummus-gold"
@@ -9534,17 +9531,17 @@
     "VKF": [
         "vkf-platform"
     ],
-    "SEMI": [
-        "semitoken"
-    ],
     "IT": [
         "idcm-token"
     ],
-    "AICO": [
-        "aicon"
+    "SEMI": [
+        "semitoken"
     ],
     "EMRALS": [
         "emrals"
+    ],
+    "AICO": [
+        "aicon"
     ],
     "YFIA": [
         "yfia"
@@ -9561,11 +9558,11 @@
     "TLW": [
         "tilwiki"
     ],
-    "BONK": [
-        "bonk"
-    ],
     "TRISM": [
         "trism"
+    ],
+    "BONK": [
+        "bonk"
     ],
     "IDALL": [
         "idall"
@@ -9579,11 +9576,11 @@
     "WVG0": [
         "wrapped-virgin-gen-0-cryptokitties"
     ],
-    "PFI": [
-        "primefinance"
-    ],
     "YFIS": [
         "yfiscurity"
+    ],
+    "PFI": [
+        "primefinance"
     ],
     "MEDI": [
         "mediconnectuk"
@@ -9655,11 +9652,14 @@
     "MVEDA": [
         "medicalveda"
     ],
-    "BCNA": [
-        "bitcanna"
-    ],
     "DOTX": [
         "deli-of-thrones"
+    ],
+    "TEP": [
+        "tepleton"
+    ],
+    "BCNA": [
+        "bitcanna"
     ],
     "UNOS": [
         "unoswap"
@@ -9683,8 +9683,11 @@
     "CICX": [
         "cicoin"
     ],
-    "TEP": [
-        "tepleton"
+    "BBGC": [
+        "big-bang-game-coin"
+    ],
+    "GGC": [
+        "global-game-coin"
     ],
     "QFI": [
         "qfinance"
@@ -9692,23 +9695,17 @@
     "MSTR": [
         "microstrategy-tokenized-stock-ftx"
     ],
-    "BBGC": [
-        "big-bang-game-coin"
-    ],
-    "GGC": [
-        "global-game-coin"
+    "RANK": [
+        "rank-token"
     ],
     "YFMB": [
         "yfmoonbeam"
     ],
-    "MERCI": [
-        "merci"
-    ],
-    "RANK": [
-        "rank-token"
-    ],
     "LIQUID": [
         "liquidefi"
+    ],
+    "MERCI": [
+        "merci"
     ],
     "YFN": [
         "yearn-finance-network"
@@ -9729,23 +9726,26 @@
         "tratok",
         "tratin"
     ],
+    "HTBULL": [
+        "3x-long-huobi-token-token"
+    ],
     "BHIG": [
         "buck-hath-coin"
     ],
     "GUAP": [
         "guapcoin"
     ],
-    "TKNT": [
-        "tkn-token"
-    ],
     "BB": [
         "blackberry-tokenized-stock-ftx"
     ],
-    "RUC": [
-        "rush"
+    "TKNT": [
+        "tkn-token"
     ],
     "MCN": [
         "mcnetwork"
+    ],
+    "RUC": [
+        "rush"
     ],
     "FXP": [
         "fxpay"
@@ -9753,6 +9753,9 @@
     "HUB": [
         "hub-human-trust-protocol",
         "hubi-token"
+    ],
+    "WEBN": [
+        "webn-token"
     ],
     "EGC": [
         "ecog9coin"
@@ -9794,20 +9797,17 @@
         "bitpumps-token",
         "bitpayer-token"
     ],
-    "YSEC": [
-        "yearn-secure"
-    ],
     "BIUT": [
         "bit-trust-system"
+    ],
+    "YSEC": [
+        "yearn-secure"
     ],
     "HUSL": [
         "the-hustle-app"
     ],
     "USDA": [
         "usda"
-    ],
-    "WEBN": [
-        "webn-token"
     ],
     "ETNXP": [
         "electronero-pulse"
@@ -9853,9 +9853,6 @@
         "qusd",
         "qian-qusd"
     ],
-    "WPX": [
-        "wallet-plus-x"
-    ],
     "RIFT": [
         "rift-token"
     ],
@@ -9880,11 +9877,11 @@
     "YFED": [
         "yfedfinance"
     ],
-    "UNO": [
-        "unobtanium"
-    ],
     "HBDC": [
         "happy-birthday-coin"
+    ],
+    "UNO": [
+        "unobtanium"
     ],
     "BSY": [
         "bestay"
@@ -9904,15 +9901,15 @@
     "FDR": [
         "french-digital-reserve"
     ],
+    "DXIOT": [
+        "dxiot"
+    ],
     "ILK": [
         "inlock"
     ],
     "HP": [
         "heartbout-pay",
         "healing-plus"
-    ],
-    "DXIOT": [
-        "dxiot"
     ],
     "DEQ": [
         "dequant"
@@ -9947,12 +9944,12 @@
     "AMD": [
         "advanced-micro-devices-tokenized-stock-ftx"
     ],
+    "WXMR": [
+        "wrapped-monero"
+    ],
     "FB": [
         "facebook-tokenized-stock-bittrex",
         "facebook-tokenized-stock-ftx"
-    ],
-    "WXMR": [
-        "wrapped-monero"
     ],
     "BRZX": [
         "braziliexs-token"
@@ -10020,20 +10017,17 @@
     "TOR": [
         "torex"
     ],
-    "NST": [
-        "newsolution"
-    ],
     "DMTC": [
         "demeter-chain"
+    ],
+    "NST": [
+        "newsolution"
     ],
     "LK3R": [
         "lk3r"
     ],
     "AWX": [
         "auruscoin"
-    ],
-    "UPT": [
-        "universal-protocol-token"
     ],
     "OKBBULL": [
         "3x-long-okb-token"
@@ -10060,6 +10054,12 @@
     "SCHA": [
         "schain-wallet"
     ],
+    "WPX": [
+        "wallet-plus-x"
+    ],
+    "TUSC": [
+        "the-universal-settlement-coin"
+    ],
     "BILI": [
         "billibilli-tokenized-stock-bittrex",
         "billibilli-inc-tokenized-stock-ftx"
@@ -10067,9 +10067,6 @@
     "SPY": [
         "spdr-sp-500-etf-tokenized-stock-bittrex",
         "spdr-sp-500-etf-tokenized-stock-ftx"
-    ],
-    "TUSC": [
-        "the-universal-settlement-coin"
     ],
     "FSC": [
         "five-star-coin"
@@ -10185,6 +10182,10 @@
     "DOGDEFI": [
         "dogdeficoin"
     ],
+    "DRAGON": [
+        "dragon-ball",
+        "dragon-option"
+    ],
     "GOLDR": [
         "golden-ratio-coin"
     ],
@@ -10197,11 +10198,11 @@
     "7E": [
         "7eleven"
     ],
-    "YFI2": [
-        "yearn2-finance"
-    ],
     "RLE": [
         "richlab-token"
+    ],
+    "YFI2": [
+        "yearn2-finance"
     ],
     "XMM": [
         "momentum"
@@ -10231,10 +10232,6 @@
     "YCE": [
         "myce"
     ],
-    "DRAGON": [
-        "dragon-ball",
-        "dragon-option"
-    ],
     "XAUTBULL": [
         "3x-long-tether-gold-token"
     ],
@@ -10243,9 +10240,6 @@
     ],
     "EZY": [
         "ezystayz"
-    ],
-    "PLUS1": [
-        "plusonecoin"
     ],
     "ODEX": [
         "one-dex"
@@ -10256,23 +10250,26 @@
     "TRP": [
         "tronipay"
     ],
-    "SBE": [
-        "sombe"
-    ],
     "NIO": [
         "nio-tokenized-stock-ftx"
     ],
-    "SPRK": [
-        "sparkster"
+    "SBE": [
+        "sombe"
     ],
     "SGC": [
         "sudan-gold-coin"
     ],
+    "SPRK": [
+        "sparkster"
+    ],
     "YFE": [
         "yfe-money"
     ],
-    "USE": [
-        "usechain-token"
+    "UPT": [
+        "universal-protocol-token"
+    ],
+    "PLUS1": [
+        "plusonecoin"
     ],
     "YFI3": [
         "yfi3-money"
@@ -10288,6 +10285,9 @@
     ],
     "NZO": [
         "enzo"
+    ],
+    "SCH": [
+        "schilling-coin"
     ],
     "ARIA20": [
         "arianee-protocol"
@@ -10310,20 +10310,17 @@
     "LYR": [
         "lyra"
     ],
-    "BST1": [
-        "blueshare-token"
-    ],
     "SHIFT": [
         "shift"
     ],
     "HOMT": [
         "homt"
     ],
+    "BST1": [
+        "blueshare-token"
+    ],
     "BTCR": [
         "bitcurate"
-    ],
-    "SCH": [
-        "schilling-coin"
     ],
     "ZLP": [
         "zuplo"
@@ -10331,11 +10328,11 @@
     "SORA": [
         "sorachancoin"
     ],
-    "CDEX": [
-        "codex"
-    ],
     "AXIA": [
         "axia-protocol"
+    ],
+    "CDEX": [
+        "codex"
     ],
     "PVG": [
         "pilnette"
@@ -10345,9 +10342,6 @@
     ],
     "DDRST": [
         "digidinar-stable-token"
-    ],
-    "LUCY": [
-        "lucy"
     ],
     "OPM": [
         "omega-protocol-money"
@@ -10366,6 +10360,9 @@
     ],
     "SQ": [
         "square-tokenized-stock-ftx"
+    ],
+    "LUCY": [
+        "lucy"
     ],
     "R2R": [
         "citios"
@@ -10497,6 +10494,9 @@
     ],
     "AZZR": [
         "azzure"
+    ],
+    "USE": [
+        "usechain-token"
     ],
     "CODEO": [
         "codeo-token"
