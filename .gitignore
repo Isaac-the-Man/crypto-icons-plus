@@ -1,0 +1,6 @@
+*.env
+*.py
+*.tar
+/node_modules
+/crypto-icons-plus-*
+/devs
