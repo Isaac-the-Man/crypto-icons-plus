@@ -10,18 +10,18 @@ Checkout the list of supported cryptos at the demo site: https://crypto-icons-pl
 
 ## Major Changes
 - Version 1.0.0
-	- previous versions 0.1.5 and below are deprecated and will no longer be updated.
+	- Previous versions 0.1.5 and below are deprecated and will no longer be updated.
 	- Icons are now separated in different packages by size.
-	- added 5000+ more icons
-	- minified JSONs
+	- Added 5000+ more icons
+	- Minified JSONs
 
 ## Installation and Usage
 **Since version 1.0 there have been breaking changes to the entire project infrastructure. This package only includes the necessary files to index the images (`map.min.json` and `manifest.min.json`). Actual icon resources are downloaded separately in the following packages by their respective size.**
 
-- crypto-icons-plus-16 (16x16)
-- crypto-icons-plus-32 (32x32)
-- crypto-icons-plus-64 (64x64)
-- crypto-icons-plus-128 (128x128)
+- [crypto-icons-plus-16](https://github.com/Isaac-the-Man/cyrpto-icons-plus-16) (16x16)
+- [crypto-icons-plus-32](https://github.com/Isaac-the-Man/cyrpto-icons-plus-32) (32x32)
+- [crypto-icons-plus-64](https://github.com/Isaac-the-Man/cyrpto-icons-plus-64) (64x64)
+- [crypto-icons-plus-128](https://github.com/Isaac-the-Man/cyrpto-icons-plus-128) (128x128)
 
 First install the main package:
 
